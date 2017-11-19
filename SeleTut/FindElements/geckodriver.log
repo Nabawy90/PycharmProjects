@@ -1,0 +1,629 @@
+1511004175266	geckodriver	INFO	geckodriver 0.19.1
+1511004175292	geckodriver	INFO	Listening on 127.0.0.1:52607
+1511004177452	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\55_3\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Benzo\\AppData\\Local\\Temp\\rust_mozprofile.zQwzrfymRezm"
+1511004181472	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/55_3/omni.ja!/components/addonManager.js:65
+1511004183608	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Benzo\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 10932] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511004190616	Marionette	INFO	Listening on port 52614
+1511004190860	Marionette	INFO	Listening on port 52614
+1511004191548	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511004191859	Marionette	DEBUG	loaded listener.js
+1511004192140	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511004193372	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511004193373	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511004197098	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/p/practice"
+1511004200579	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/courses"
+1511004201523	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1511004201547	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1511004201550	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1511004201553	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1511004201598	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1511004201601	Marionette	DEBUG	Received DOM event "pageshow" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1511004201638	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1511004201641	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1511004201643	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1511004201647	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1511004201680	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/courses"
+1511004201735	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1511004201738	Marionette	DEBUG	Received DOM event "pageshow" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1511004201902	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1511004201906	Marionette	DEBUG	Received DOM event "pageshow" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1511004201908	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1511004201921	Marionette	DEBUG	Received DOM event "pageshow" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1511004201963	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/p/practice"
+Unable to read VR Path Registry from C:\Users\Benzo\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 8240] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Benzo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9064] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 10932] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1511004349435	geckodriver	INFO	geckodriver 0.19.1
+1511004349461	geckodriver	INFO	Listening on 127.0.0.1:52774
+1511004351605	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\55_3\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Benzo\\AppData\\Local\\Temp\\rust_mozprofile.fbr4wHCU5Cyi"
+1511004355271	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/55_3/omni.ja!/components/addonManager.js:65
+1511004357703	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Benzo\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 8412] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Benzo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4436] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4436] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511004365858	Marionette	INFO	Listening on port 52780
+1511004365873	Marionette	INFO	Listening on port 52780
+1511004366196	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511004366322	Marionette	DEBUG	loaded listener.js
+1511004366394	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511004367174	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511004367175	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511004369375	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/p/practice"
+1511004370562	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/courses"
+1511004371005	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1511004371009	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1511004371012	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1511004371018	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1511004371092	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1511004371096	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1511004371107	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1511004371112	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1511004371138	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/courses"
+1511004371279	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/p/practice"
+1511004371582	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/p/practice"
+1511004371585	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/p/practice"
+1511004371758	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GPU 8412] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Unable to read VR Path Registry from C:\Users\Benzo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1740] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 8412] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Benzo\AppData\Local\openvr\openvrpaths.vrpath
+1511004858998	geckodriver	INFO	geckodriver 0.19.1
+1511004859027	geckodriver	INFO	Listening on 127.0.0.1:53386
+1511004861123	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\55_3\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Benzo\\AppData\\Local\\Temp\\rust_mozprofile.I8oeNVUaXwoK"
+1511004863366	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/55_3/omni.ja!/components/addonManager.js:65
+1511004865645	Marionette	INFO	Enabled via --marionette
+1511004873313	Marionette	INFO	Listening on port 53393
+1511004873353	Marionette	INFO	Listening on port 53393
+1511004874396	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511004874670	Marionette	DEBUG	loaded listener.js
+1511004874809	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511004875611	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511004875612	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511004878475	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/p/practice"
+1511004879841	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/courses"
+1511004880418	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1511004880450	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1511004880466	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1511004880469	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1511004880554	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1511004880562	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1511004880574	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1511004880576	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1511004880602	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/courses"
+1511004880635	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/p/practice"
+1511004880840	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/courses"
+1511004880843	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/courses"
+1511004880845	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/p/practice"
+1511004880847	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/p/practice"
+1511004881028	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\Benzo\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12568] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Benzo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4436] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Benzo\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 12324] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+s/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/55_3/omni.ja!/components/addonManager.js:65
+1511013881821	Marionette	INFO	Enabled via --marionette
+1511013888440	Marionette	INFO	Listening on port 53771
+1511013888523	Marionette	INFO	Listening on port 53771
+1511013888892	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511013889183	Marionette	DEBUG	loaded listener.js
+1511013889286	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511013890039	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511013890040	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511013892973	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/p/practice"
+1511013895219	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1511013895238	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1511013895241	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1511013895248	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+Unable to read VR Path Registry from C:\Users\Benzo\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 91: TypeError: Argument 1 of MutationObserver.observe is not an object.
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/packs/student-ea0715e612076101782e.js, line 1: ReferenceError: $ is not defined
+1511013916122	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/courses"
+1511013917142	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/p/practice"
+1511013917418	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1511013917437	Marionette	DEBUG	Received DOM event "pageshow" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1511013917477	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1511013917484	Marionette	DEBUG	Received DOM event "pageshow" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1511013917491	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/courses"
+1511013917528	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/p/practice"
+1511013918324	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\Benzo\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 12768] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Benzo\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 14684] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14504] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14504] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 12768] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1511014185845	geckodriver	INFO	geckodriver 0.19.1
+1511014185875	geckodriver	INFO	Listening on 127.0.0.1:53892
+1511014188000	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\55_3\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Benzo\\AppData\\Local\\Temp\\rust_mozprofile.t0i7iuYsQYJT"
+1511014189806	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/55_3/omni.ja!/components/addonManager.js:65
+1511014191302	Marionette	INFO	Enabled via --marionette
+1511014197942	Marionette	INFO	Listening on port 53898
+1511014197972	Marionette	INFO	Listening on port 53898
+1511014198605	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511014198818	Marionette	DEBUG	loaded listener.js
+1511014198922	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511014199762	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511014199763	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511014202105	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/p/practice"
+1511014203632	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/courses"
+1511014204029	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1511014204047	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1511014204051	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1511014204054	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1511014204073	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1511014204078	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1511014204084	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1511014204086	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1511014204117	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/courses"
+1511014204291	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/p/practice"
+1511014204514	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/p/practice"
+1511014204516	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/p/practice"
+1511014204705	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\Benzo\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 8812] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Benzo\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 2388] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Benzo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1136] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1136] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 8812] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1511014225236	geckodriver	INFO	geckodriver 0.19.1
+1511014225270	geckodriver	INFO	Listening on 127.0.0.1:53966
+1511014227375	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\55_3\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Benzo\\AppData\\Local\\Temp\\rust_mozprofile.PPDLD2v0aZmn"
+1511014228952	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/55_3/omni.ja!/components/addonManager.js:65
+1511014230815	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Benzo\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 14936] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511014237252	Marionette	INFO	Listening on port 53972
+1511014237291	Marionette	INFO	Listening on port 53972
+1511014237737	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511014237982	Marionette	DEBUG	loaded listener.js
+1511014238142	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511014238934	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511014238935	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511014241830	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/p/practice"
+1511014243024	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/courses"
+1511014243570	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1511014243584	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1511014243586	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1511014243590	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1511014243653	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1511014243656	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1511014243661	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1511014243664	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1511014243695	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/courses"
+1511014243810	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/p/practice"
+1511014244050	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/p/practice"
+1511014244053	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/p/practice"
+1511014244241	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511014244781	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GPU 14936] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 14936] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Benzo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11084] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11084] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Benzo\AppData\Local\openvr\openvrpaths.vrpath
+1511014440263	geckodriver	INFO	geckodriver 0.19.1
+1511014440298	geckodriver	INFO	Listening on 127.0.0.1:54137
+1511014442446	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\55_3\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Benzo\\AppData\\Local\\Temp\\rust_mozprofile.KRnsdDC7nhvs"
+1511014443980	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/55_3/omni.ja!/components/addonManager.js:65
+1511014445900	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Benzo\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 1944] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511014453016	Marionette	INFO	Listening on port 54143
+1511014453052	Marionette	INFO	Listening on port 54143
+1511014453290	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511014453528	Marionette	DEBUG	loaded listener.js
+1511014453648	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511014453771	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511014453772	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511014453784	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483652"
+Unable to read VR Path Registry from C:\Users\Benzo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13764] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13764] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511014455063	Marionette	DEBUG	loaded listener.js
+Unable to read VR Path Registry from C:\Users\Benzo\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: file:///C:/Users/Benzo/PycharmProjects/SeleTut/Practice%20_%20Let%27s%20Kode%20It_files/analytics_002.js, line 741: too much recursion
+JavaScript error: file:///C:/Users/Benzo/PycharmProjects/SeleTut/Practice%20_%20Let%27s%20Kode%20It_files/application-f46dd5219977d228d83102694b803299152907930ab9fc05a.js, line 142: too much recursion
+[GPU 1944] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511016407214	geckodriver	INFO	geckodriver 0.19.1
+1511016407245	geckodriver	INFO	Listening on 127.0.0.1:55009
+1511016409422	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\55_3\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Benzo\\AppData\\Local\\Temp\\rust_mozprofile.5QefQf5TaWYT"
+1511016411332	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/55_3/omni.ja!/components/addonManager.js:65
+1511016413014	Marionette	INFO	Enabled via --marionette
+1511016419822	Marionette	INFO	Listening on port 55016
+1511016419857	Marionette	INFO	Listening on port 55016
+1511016419909	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511016420122	Marionette	DEBUG	loaded listener.js
+1511016420303	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511016421156	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511016421157	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511016423552	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/p/practice"
+1511016424994	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/courses"
+1511016425462	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1511016425518	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1511016425598	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1511016425602	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1511016425832	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1511016425836	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1511016425853	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1511016425866	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1511016425923	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/courses"
+1511016425995	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1511016425999	Marionette	DEBUG	Received DOM event "pageshow" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1511016426022	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1511016426024	Marionette	DEBUG	Received DOM event "pageshow" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1511016426201	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/p/practice"
+1511016426399	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/p/practice"
+1511016426402	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/p/practice"
+1511016426592	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511016427010	Marionette	DEBUG	Received DOM event "pagehide" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1511016427011	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1511016427078	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511016427305	Marionette	DEBUG	Received DOM event "beforeunload" for "https://letskodeit.teachable.com/p/practice"
+1511016427919	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/p/practice"
+1511016427921	Marionette	DEBUG	Received DOM event "unload" for "https://letskodeit.teachable.com/p/practice"
+1511016428659	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1"
+1511016428785	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483676"
+1511016428785	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483674"
+1511016428786	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1511016428787	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1511016428787	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1511016428788	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1511016428788	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1511016428789	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1511016428983	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1511016428985	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1511016428986	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1511016428988	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1511016429729	Marionette	DEBUG	Received DOM event "pageshow" for "https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1"
+1511016429809	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1"
+1511016429896	Marionette	DEBUG	Received DOM event "pagehide" for "https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1"
+1511016429898	Marionette	DEBUG	Received DOM event "unload" for "https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1"
+1511016430065	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483692"
+1511016431411	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/p/practice"
+1511016431538	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483700"
+1511016431539	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483698"
+1511016431540	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483688"
+1511016431541	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483689"
+1511016434030	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/courses"
+1511016434664	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1511016434689	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1511016434694	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1511016434712	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1511016435314	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1511016435320	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1511016435323	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1511016435328	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1511016435378	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/courses"
+1511016435425	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/p/practice"
+1511016435962	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/p/practice"
+1511016435971	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/p/practice"
+1511016436160	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\Benzo\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 1632] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Benzo\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 13616] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Unable to read VR Path Registry from C:\Users\Benzo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11384] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 1632] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+sm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/55_3/omni.ja!/components/addonManager.js:65
+1511016497512	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Benzo\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 11900] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511016504906	Marionette	INFO	Listening on port 55180
+1511016504966	Marionette	INFO	Listening on port 55180
+1511016505426	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511016505654	Marionette	DEBUG	loaded listener.js
+1511016505789	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511016506713	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511016506714	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511016510029	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/p/practice"
+1511016511433	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/courses"
+1511016511877	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1511016511881	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1511016511883	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1511016511885	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1511016511937	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1511016511941	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1511016511957	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1511016511959	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1511016511993	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/courses"
+1511016512020	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/p/practice"
+1511016512272	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/courses"
+1511016512275	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/courses"
+1511016512277	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/p/practice"
+1511016512280	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/p/practice"
+1511016512456	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511016512969	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511016513198	Marionette	DEBUG	Received DOM event "beforeunload" for "https://letskodeit.teachable.com/p/practice"
+1511016513352	Marionette	DEBUG	Received DOM event "pagehide" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1511016513353	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1511016513386	Marionette	DEBUG	Received DOM event "pagehide" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1511016513387	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483672"
+1511016514685	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/p/practice"
+1511016514687	Marionette	DEBUG	Received DOM event "unload" for "https://letskodeit.teachable.com/p/practice"
+1511016517657	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1"
+1511016517899	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483670"
+1511016517900	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1511016517901	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1511016517901	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1511016517903	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1511016517904	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1511016517905	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1511016518466	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1511016518470	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1511016518478	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1511016518484	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1511016518507	Marionette	DEBUG	Received DOM event "pageshow" for "https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1"
+1511016518554	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1"
+1511016518653	Marionette	DEBUG	Received DOM event "pagehide" for "https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1"
+1511016518658	Marionette	DEBUG	Received DOM event "unload" for "https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1"
+1511016519458	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/p/practice"
+1511016519547	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483698"
+1511016519547	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483696"
+1511016519548	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483686"
+1511016519549	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483687"
+1511016519898	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483692"
+1511016520467	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/courses"
+1511016520726	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1511016520735	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1511016520736	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1511016520738	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1511016520891	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1511016520893	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1511016520894	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1511016520896	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1511016520933	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/courses"
+1511016520951	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/p/practice"
+1511016521242	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/courses"
+1511016521246	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/p/practice"
+1511016521250	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/p/practice"
+1511016521520	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GPU 11900] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 11900] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Benzo\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9188] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Benzo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11028] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11028] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Provider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/55_3/omni.ja!/components/addonManager.js:65
+1511016690928	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Benzo\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 13384] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511016700398	Marionette	INFO	Listening on port 55334
+1511016700440	Marionette	INFO	Listening on port 55334
+1511016700944	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511016701149	Marionette	DEBUG	loaded listener.js
+1511016701382	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511016702556	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511016702557	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511016705422	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/p/practice"
+1511016707211	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/courses"
+1511016707774	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1511016707779	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1511016707819	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1511016707825	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1511016707864	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1511016707873	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1511016707879	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1511016707881	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1511016707907	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/courses"
+1511016708028	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1511016708032	Marionette	DEBUG	Received DOM event "pageshow" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1511016708084	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1511016708088	Marionette	DEBUG	Received DOM event "pageshow" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1511016708157	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1511016708161	Marionette	DEBUG	Received DOM event "pageshow" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1511016708177	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/p/practice"
+1511016708594	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511016709078	Marionette	DEBUG	Received DOM event "pagehide" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1511016709080	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1511016709107	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GPU 13384] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 13384] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Benzo\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12680] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 13384] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1511017001053	geckodriver	INFO	geckodriver 0.19.1
+1511017001083	geckodriver	INFO	Listening on 127.0.0.1:55461
+1511017002904	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\55_3\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Benzo\\AppData\\Local\\Temp\\rust_mozprofile.jzsE2TeD1Y5h"
+1511017005442	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/55_3/omni.ja!/components/addonManager.js:65
+1511017007361	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Benzo\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 14184] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Benzo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7312] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7312] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511017013763	Marionette	INFO	Listening on port 55467
+1511017013857	Marionette	INFO	Listening on port 55467
+1511017014058	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511017014330	Marionette	DEBUG	loaded listener.js
+1511017014472	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511017015278	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511017015279	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511017017093	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/p/practice"
+1511017018766	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/courses"
+1511017019203	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1511017019232	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1511017019238	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1511017019245	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1511017019327	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1511017019330	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1511017019337	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1511017019341	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1511017019362	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/courses"
+1511017019463	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1511017019468	Marionette	DEBUG	Received DOM event "pageshow" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1511017019500	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1511017019501	Marionette	DEBUG	Received DOM event "pageshow" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1511017019616	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/p/practice"
+1511017019777	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/p/practice"
+1511017019779	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/p/practice"
+1511017019970	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511017020442	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511017020464	Marionette	DEBUG	loaded listener.js
+[GPU 14184] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Benzo\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11872] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1511017120263	geckodriver	INFO	geckodriver 0.19.1
+1511017120287	geckodriver	INFO	Listening on 127.0.0.1:55594
+1511017122438	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\55_3\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Benzo\\AppData\\Local\\Temp\\rust_mozprofile.YTX4kZG6SW9Y"
+1511017123943	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/55_3/omni.ja!/components/addonManager.js:65
+1511017125854	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Benzo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3272] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3272] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511017132428	Marionette	INFO	Listening on port 55600
+1511017132430	Marionette	INFO	Listening on port 55600
+1511017132966	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511017133051	Marionette	DEBUG	loaded listener.js
+1511017133096	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511017133855	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511017133856	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511017135742	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/p/practice"
+1511017136812	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/courses"
+1511017137070	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1511017137073	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1511017137074	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1511017137075	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1511017137279	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1511017137281	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1511017137284	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1511017137286	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1511017137299	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/courses"
+1511017137315	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/p/practice"
+1511017137507	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/courses"
+1511017137510	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/courses"
+1511017137512	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/p/practice"
+1511017137514	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/p/practice"
+1511017137702	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511017138120	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511017138252	Marionette	DEBUG	loaded listener.js
+Unable to read VR Path Registry from C:\Users\Benzo\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 13900] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 13900] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Benzo\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 14840] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Benzo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13140] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13140] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rovider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/55_3/omni.ja!/components/addonManager.js:65
+1511018029897	Marionette	INFO	Enabled via --marionette
+1511018036752	Marionette	INFO	Listening on port 57081
+1511018037026	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511018037130	Marionette	INFO	Listening on port 57081
+1511018037221	Marionette	DEBUG	loaded listener.js
+1511018037371	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511018038417	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511018038418	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511018040804	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/p/practice"
+1511018042426	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/courses"
+1511018042613	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1511018042629	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1511018042630	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1511018042633	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1511018042942	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1511018042947	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1511018042954	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1511018042956	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1511018042975	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/courses"
+1511018042998	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/p/practice"
+1511018043215	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/courses"
+1511018043219	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/courses"
+1511018043225	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/p/practice"
+1511018043229	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/p/practice"
+1511018043409	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\Benzo\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9632] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Unable to read VR Path Registry from C:\Users\Benzo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13232] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Benzo\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 11888] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511018211882	geckodriver	INFO	geckodriver 0.19.1
+1511018211921	geckodriver	INFO	Listening on 127.0.0.1:57292
+1511018214023	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\55_3\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Benzo\\AppData\\Local\\Temp\\rust_mozprofile.03rWaqR9qBnG"
+1511018215951	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/55_3/omni.ja!/components/addonManager.js:65
+1511018218018	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Benzo\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 11812] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Benzo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12752] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12752] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511018223745	Marionette	INFO	Listening on port 57298
+1511018223759	Marionette	INFO	Listening on port 57298
+1511018224590	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511018224878	Marionette	DEBUG	loaded listener.js
+1511018225023	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511018226136	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511018226137	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511018229378	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.buytickets.virgintrains.co.uk/buytickets/sessiontimeout.aspx"
+1511018229384	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.buytickets.virgintrains.co.uk/buytickets/sessiontimeout.aspx"
+1511018229424	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.buytickets.virgintrains.co.uk/buytickets/sessiontimeout.aspx"
+1511018229463	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.buytickets.virgintrains.co.uk/buytickets/sessiontimeout.aspx"
+1511018229470	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.buytickets.virgintrains.co.uk/buytickets/sessiontimeout.aspx"
+1511018229521	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.buytickets.virgintrains.co.uk/buytickets/sessiontimeout.aspx"
+1511018229524	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.buytickets.virgintrains.co.uk/buytickets/sessiontimeout.aspx"
+1511018229554	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.buytickets.virgintrains.co.uk/buytickets/sessiontimeout.aspx"
+Unable to read VR Path Registry from C:\Users\Benzo\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://www.buytickets.virgintrains.co.uk/buytickets/js/require.v-636463155019317364.js, line 8: Error: Script error
+http://requirejs.org/docs/errors.html#scripterror
+[GPU 11812] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11552] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 11812] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Benzo\AppData\Local\openvr\openvrpaths.vrpath
