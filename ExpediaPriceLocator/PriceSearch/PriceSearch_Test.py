@@ -13,7 +13,7 @@ def getLowestPrices():
     print(flightsDataFrame.loc[0, 'from'])
 
     for i in range(numOfFlights):
-        # Go to Expedia
+        # Go to Expedia.co.uk
         expediaTest.navigateTo(r'https://www.expedia.co.uk/')
 
         # Selecting Flight only option
