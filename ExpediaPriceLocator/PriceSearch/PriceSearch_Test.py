@@ -1,72 +1,81 @@
 from ExpediaPriceLocator.GUIAutomation import ExpediaSearch
 from selenium.webdriver.support.select import Select
-import time
 import pandas as pd
+from ExpediaPriceLocator.GUIAutomation import XPATH_STD
+from ExpediaPriceLocator.Validation import Validator
 
-
-def get_lowest_prices():
+def get_lowest_prices_test():
     expediaTest = ExpediaSearch.Expedia()
-    flightsDataFrame = pd.read_csv('flights_input.csv')
+    csv_file = 'flights_input.csv'
+    if Validator.validate_flights_data_test(csv_file):
+        flightsDataFrame = pd.read_csv('flights_input.csv')
 
-    numOfFlights = len(flightsDataFrame.index)
+        numOfFlights = len(flightsDataFrame.index)
 
-    flightsDataFrame["Num Direct Flights"] = 0
-    flightsDataFrame["Starting From"] = 0
+        flightsDataFrame["Num Direct Flights"] = 0
+        flightsDataFrame["Starting From"] = 0
 
-    for i in range(numOfFlights):
-        # Go to Expedia.co.uk
-        expediaTest.navigateTo(r'https://www.expedia.co.uk/')
+        for i in range(numOfFlights):
+            # Go to Expedia.co.uk
+            expediaTest.navigateTo(r'https://www.expedia.co.uk/')
 
-        # Selecting Flight only option
-        btn_flightOnly = expediaTest.explicitWaitForClickableByXpath(10, r"//*[@id='tab-flight-tab-hp']")
-        assert btn_flightOnly!=None
-        btn_flightOnly.click()
+            # Selecting Flight only option
+            btn_flightOnly = expediaTest.explicitWaitForClickableByXpath(10, XPATH_STD.BTN_FLIGHTS_ONLY)
+            assert btn_flightOnly != None
+            btn_flightOnly.click()
 
-        # Selecting One Way option
-        btn_oneWay = expediaTest.explicitWaitForClickableByXpath(10, r"//*[@id='flight-type-one-way-label-hp-flight']")
-        btn_oneWay.click()
+            # Selecting One Way option
+            btn_oneWay = expediaTest.explicitWaitForClickableByXpath(10, XPATH_STD.BTN_ONE_WAY)
+            btn_oneWay.click()
 
-        # Sending the origin of the flight
-        txt_flightOrigin = expediaTest.explicitWaitForClickableByXpath(10, r"//*[@id='flight-origin-hp-flight']")
-        txt_flightOrigin.clear()
-        txt_flightOrigin.send_keys(str(flightsDataFrame.loc[i, 'from']))
+            # Sending the origin of the flight
+            txt_flightOrigin = expediaTest.explicitWaitForClickableByXpath(10, XPATH_STD.TXT_FLIGHT_ORIGIN)
+            txt_flightOrigin.clear()
+            txt_flightOrigin.send_keys(str(flightsDataFrame.loc[i, 'from']))
+
+            # Selecting the destination of the flight
+            txt_flightDest = expediaTest.explicitWaitForClickableByXpath(10, XPATH_STD.TXT_FLIGHT_DEST)
+            txt_flightDest.clear()
+            txt_flightDest.send_keys(str(flightsDataFrame.loc[i, 'to']))
+
+            # selecting the departure date
+            txt_departingDate = expediaTest.explicitWaitForClickableByXpath(10, XPATH_STD.TXT_DEP_DATE)
+            txt_departingDate.clear()
+            txt_departingDate.send_keys(str(flightsDataFrame.loc[i, 'date']))
+
+            btn_closeCalander = expediaTest.explicitWaitForClickableByXpath(10, XPATH_STD.BTN_CLOSE_CALANDER)
+            btn_closeCalander.click()
+
+            # Selecting the Drop Down for Adult number
+            DD_adult = expediaTest.explicitWaitForClickableByXpath(10, XPATH_STD.DD_ADULT)
+            selector = Select(DD_adult)
+            selector.select_by_value(str(flightsDataFrame.loc[i, 'adults']))
+
+            # Pressing the Search button
+            btn_search = expediaTest.explicitWaitForClickableByXpath(10, XPATH_STD.BTN_SEARCH)
+            btn_search.click()
+
+            lbl_validation = expediaTest.explicitWaitForClickableByXpath(10, XPATH_STD.LBL_VALIDATION)
+            assert lbl_validation.text == "Prices are one way per person, include all taxes and fees."
+
+            # Selecting Direct flights only
+            chk_bx_direct = expediaTest.explicitWaitForClickableByXpath(10, XPATH_STD.CHK_BX_DIRECT_FLIGHTS)
+            chk_bx_direct.click()
+
+            # Grabbing the text in the checkbox of Direct flights.
+            lbl_directChkBxLable = expediaTest.explicitWaitForClickableByXpath(10, XPATH_STD.LBL_DIRECT_FLIGHTS)
+            print(lbl_directChkBxLable.text)
+
+            # adding two new columns in the datafram
+            flightsDataFrame.loc[i, "Num Direct Flights"] = expediaTest.extract_flights_count(lbl_directChkBxLable.text)
+            flightsDataFrame.loc[i, "Starting From"] = expediaTest.extract_flights_lowest_price(
+                lbl_directChkBxLable.text)
+
+            # end of for loop
+
+        expediaTest.write_to_csv(flightsDataFrame, "flights_output.csv")
+    else:
+        print('CSV file is not valid, check console for errors')
 
 
-        # Selecting the destination of the flight
-        txt_flightDest = expediaTest.explicitWaitForClickableByXpath(10, r"//*[@id='flight-destination-hp-flight']")
-        txt_flightDest.clear()
-        txt_flightDest.send_keys(str(flightsDataFrame.loc[i, 'to']))
-
-        # selecting the departure date
-        txt_departingDate = expediaTest.explicitWaitForClickableByXpath(10, r"//*[@id='flight-departing-single-hp-flight']")
-        txt_departingDate.clear()
-        txt_departingDate.send_keys(str(flightsDataFrame.loc[i, 'date']))
-
-        btn_closeCalander = expediaTest.explicitWaitForClickableByXpath(10, r"//*[@id='flight-departing-wrapper-single-hp-"
-                                                                            r"flight']/div/div/div[1]/button")
-        btn_closeCalander.click()
-
-        # Selecting the Drop Down for Adult number
-        DD_adult = expediaTest.explicitWaitForClickableByXpath(10, r"//*[@id='flight-adults-hp-flight']")
-        selector = Select(DD_adult)
-        selector.select_by_value(str(flightsDataFrame.loc[i, 'adults']))
-
-        btn_search = expediaTest.explicitWaitForClickableByXpath(10, r"//*[@id='gcw-flights-form-hp-flight']/div[8]/label/button")
-        time.sleep(2)
-        btn_search.click()
-
-        chk_bx_direct = expediaTest.explicitWaitForClickableByXpath(10,r"//*[@id='stopFilter_stops-0']")
-        chk_bx_direct.click()
-
-        lbl_directChkBxLable = expediaTest.explicitWaitForClickableByXpath(10, r"//*[@id='Direct-stop-flights-checkbox']")
-        print(lbl_directChkBxLable.text)
-
-        flightsDataFrame.loc[i, "Num Direct Flights"] = expediaTest.extract_flights_count(lbl_directChkBxLable.text)
-        flightsDataFrame.loc[i, "Starting From"] = expediaTest.extract_flights_lowest_price(lbl_directChkBxLable.text)
-
-        # end of for loop
-
-    expediaTest.write_to_csv(flightsDataFrame,"flights_output.csv")
-
-
-get_lowest_prices()
+get_lowest_prices_test()
