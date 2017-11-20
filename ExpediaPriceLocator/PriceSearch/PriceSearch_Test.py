@@ -1,16 +1,17 @@
-from GUIAutomation import ExpediaSearch
+from ExpediaPriceLocator.GUIAutomation import ExpediaSearch
 from selenium.webdriver.support.select import Select
 import time
 import pandas as pd
 
-def getLowestPrices():
+
+def get_lowest_prices():
     expediaTest = ExpediaSearch.Expedia()
-    flightsDataFrame = pd.read_csv('flights.csv')
+    flightsDataFrame = pd.read_csv('flights_input.csv')
 
     numOfFlights = len(flightsDataFrame.index)
 
-    print(numOfFlights)
-    print(flightsDataFrame.loc[0, 'from'])
+    flightsDataFrame["Num Direct Flights"] = 0
+    flightsDataFrame["Starting From"] = 0
 
     for i in range(numOfFlights):
         # Go to Expedia.co.uk
@@ -60,5 +61,12 @@ def getLowestPrices():
         lbl_directChkBxLable = expediaTest.explicitWaitForClickableByXpath(10, r"//*[@id='Direct-stop-flights-checkbox']")
         print(lbl_directChkBxLable.text)
 
+        flightsDataFrame.loc[i, "Num Direct Flights"] = expediaTest.extract_flights_count(lbl_directChkBxLable.text)
+        flightsDataFrame.loc[i, "Starting From"] = expediaTest.extract_flights_lowest_price(lbl_directChkBxLable.text)
 
-getLowestPrices()
+        # end of for loop
+
+    expediaTest.write_to_csv(flightsDataFrame,"flights_output.csv")
+
+
+get_lowest_prices()

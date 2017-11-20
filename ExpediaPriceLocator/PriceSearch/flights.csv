@@ -1,4 +1,4 @@
-from,to,date,adults,lowestprice
-LHR,HAM,27/11/2017,1,
-HAM,LHR,29/11/2017,2,
-LIS,HAM,4/12/2017,3,
+,from,to,date,adults,lowestprice,Num of Direct Flights
+0,LHR,HAM,27/11/2017,1,,1
+1,HAM,LHR,29/11/2017,2,,2
+2,LIS,HAM,4/12/2017,3,,3
