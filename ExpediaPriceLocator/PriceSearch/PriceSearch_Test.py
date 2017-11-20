@@ -3,6 +3,7 @@ from selenium.webdriver.support.select import Select
 import pandas as pd
 from ExpediaPriceLocator.GUIAutomation import XPATH_STD
 from ExpediaPriceLocator.Validation import Validator
+import time
 
 def get_lowest_prices_test():
     expediaTest = ExpediaSearch.Expedia()
@@ -63,6 +64,7 @@ def get_lowest_prices_test():
             chk_bx_direct.click()
 
             # Grabbing the text in the checkbox of Direct flights.
+            time.sleep(3)
             lbl_directChkBxLable = expediaTest.explicitWaitForClickableByXpath(10, XPATH_STD.LBL_DIRECT_FLIGHTS)
             print(lbl_directChkBxLable.text)
 
@@ -76,6 +78,9 @@ def get_lowest_prices_test():
         expediaTest.write_to_csv(flightsDataFrame, "flights_output.csv")
     else:
         print('CSV file is not valid, check console for errors')
+
+    expediaTest.close_driver()
+
 
 
 get_lowest_prices_test()

@@ -8,7 +8,11 @@ import pandas as pd
 #import time
 
 class Expedia:
-    driver = webdriver.Firefox()
+
+    profile = webdriver.FirefoxProfile()
+    profile.set_preference('dom.popup_maximum', 0)
+    profile.set_preference('privacy.popups.showBrowserMessage', False)
+    driver = webdriver.Firefox(profile)
 
     def navigateTo(self, URL):
         Expedia.driver.get(URL)
@@ -68,3 +72,5 @@ class Expedia:
 
         dataFrame.to_csv(csv_file_location)
 
+    def close_driver(self):
+        Expedia.driver.close()
