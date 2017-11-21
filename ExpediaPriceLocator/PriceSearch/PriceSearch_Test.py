@@ -10,7 +10,7 @@ import time
 
 def get_lowest_prices_test():
     expediaTest = ExpediaSearch.Expedia()
-    csv_file = r'../../ExpediaPriceLocator/PriceSearch/flights_input.csv'
+    csv_file = r'..\..\ExpediaPriceLocator\PriceSearch\flights_input.csv'
     if Validator.validate_flights_data_test(csv_file):
         flightsDataFrame = pd.read_csv('flights_input.csv')
 
