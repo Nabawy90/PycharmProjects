@@ -11,6 +11,9 @@ jobs:
           command: |
             sudo apt-get purge firefox
             sudo apt-get install firefox
+       - run:
+          name: Get FF version
+          command: firefox -v
 
        - run:
           name: Install GeckoDriver for Firefox
