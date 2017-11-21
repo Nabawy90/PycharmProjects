@@ -8,10 +8,10 @@ jobs:
        - checkout
        - run:
           name: Install Selenium
-          command: pip install selenium
+          command: sudo pip install selenium
        - run:
           name: Install Pandas
-          command: pip install pandas
+          command: sudo pip install pandas
        - run:
           name: Run Price Search Test
           command: python ExpediaPriceLocator/PriceSearch/PriceSearch_Test.py
