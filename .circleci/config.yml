@@ -7,8 +7,8 @@ jobs:
      steps:
        - checkout
        - run:
-          name: get firefox version
-          command: firefox -v
+          name: get OS version
+          command: uname -a
        - run:
           name: Install GeckoDriver for Firefox
           command: sudo bash geckodriver-install.sh
