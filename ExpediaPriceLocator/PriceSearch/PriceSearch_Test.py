@@ -1,6 +1,6 @@
 import sys
 import os
-sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
+sys.path.append('..')
 from GUIAutomation import ExpediaSearch
 from GUIAutomation import XPATH_STD
 from Validation import Validator
@@ -10,7 +10,6 @@ import time
 
 def get_lowest_prices_test():
     expediaTest = ExpediaSearch.Expedia()
-
 
     csv_file = os.path.dirname(os.path.realpath(__file__))+'/flights_input.csv'
     if Validator.validate_flights_data_test(csv_file):
@@ -80,7 +79,7 @@ def get_lowest_prices_test():
 
             # end of for loop
 
-        expediaTest.write_to_csv(flightsDataFrame, "flights_output.csv")
+        expediaTest.write_to_csv(flightsDataFrame, os.path.dirname(os.path.realpath(__file__))+"/flights_output.csv")
     else:
         print('CSV file is not valid, check console for errors')
 
