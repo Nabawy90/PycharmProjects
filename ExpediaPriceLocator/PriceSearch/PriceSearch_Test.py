@@ -1,8 +1,8 @@
-from ExpediaPriceLocator.GUIAutomation import ExpediaSearch
+from GUIAutomation import ExpediaSearch
 from selenium.webdriver.support.select import Select
 import pandas as pd
-from ExpediaPriceLocator.GUIAutomation import XPATH_STD
-from ExpediaPriceLocator.Validation import Validator
+from GUIAutomation import XPATH_STD
+from Validation import Validator
 import time
 
 def get_lowest_prices_test():
