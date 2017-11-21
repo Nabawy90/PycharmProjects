@@ -9,8 +9,9 @@ jobs:
        - run:
           name: ChangeDirectory
           command: cd ExpediaPriceLocator/PriceSearch
+          command: ls
 
        - run:
           name: RunPriceSearchTest
-          command: python PriceSearch_Test.py
+          command: python
 
