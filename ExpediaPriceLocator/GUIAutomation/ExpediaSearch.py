@@ -3,16 +3,15 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import *
 from selenium.webdriver.common.by import By
-import pandas as pd
-
-#import time
 
 class Expedia:
 
+    '''
     profile = webdriver.FirefoxProfile()
     profile.set_preference('dom.popup_maximum', 0)
     profile.set_preference('privacy.popups.showBrowserMessage', False)
-    driver = webdriver.Firefox(profile)
+    '''
+    driver = webdriver.Firefox()
 
     def navigateTo(self, URL):
         Expedia.driver.get(URL)

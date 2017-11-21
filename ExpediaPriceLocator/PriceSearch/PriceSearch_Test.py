@@ -2,10 +2,11 @@ import sys
 import os
 sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 from GUIAutomation import ExpediaSearch
-from selenium.webdriver.support.select import Select
-import pandas as pd
 from GUIAutomation import XPATH_STD
 from Validation import Validator
+from selenium.webdriver.support.select import Select
+import pandas as pd
+
 import time
 
 def get_lowest_prices_test():
