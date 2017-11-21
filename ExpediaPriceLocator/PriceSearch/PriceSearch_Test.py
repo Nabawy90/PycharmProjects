@@ -2,7 +2,7 @@ import sys
 import os
 sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 from GUIAutomation import ExpediaSearch
-from EGUIAutomation import XPATH_STD
+from GUIAutomation import XPATH_STD
 from Validation import Validator
 from selenium.webdriver.support.select import Select
 import pandas as pd
