@@ -9,8 +9,8 @@ jobs:
        - run:
           name: get latest FF versoion
           command: |
-          sudo apt-get update && sudo apt-get install libpango1.0-0 && sudo apt-get install firefox
-          firefox -v
+            sudo apt-get update && sudo apt-get install libpango1.0-0 && sudo apt-get install firefox
+            firefox -v
        - run:
           name: Install GeckoDriver for Firefox
           command: sudo bash geckodriver-install.sh
