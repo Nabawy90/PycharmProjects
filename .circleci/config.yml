@@ -6,5 +6,5 @@ jobs:
        - image: circleci/python:3.6-browsers
      steps:
        - checkout
-       - run: cd ExpediaPriceLocator\\PriceSearch\\
+       - run: cd ExpediaPriceLocator
        - run: python PriceSearch_Test.py
