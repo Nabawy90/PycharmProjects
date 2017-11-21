@@ -11454,3 +11454,953 @@ JavaScript error: https://a.travel-assets.com/datacapture/2/js/dctk.js, line 22:
 1511199024974	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.google.com/afs/ads?q=flights%20to%20Amsterdam&r=m&client=expedia-emea-flights&channel=UK_ecom_flights_depart_sr&hl=en&adtest=off&type=0&oe=UTF-8&ie=UTF-8&fexp=21404%2C17300002&format=n3%7Cn2%7Cn2&ad=n7&nocache=7541511199023716&num=0&output=uds_ads_only&v=3&bsl=8&u_his=12&u_tz=0&dt=1511199023718&u_w=1920&u_h=1080&biw=1247&bih=879&psw=1247&psh=10020&frm=0&uio=uv3cs1vp1af7-wi140ff2st12sd10sv11va0-ff2st13sd11sv11va0-ff2st13sd11sv11va0&jsv=50136&rurl=https%3A%2F%2Fwww.expedia.co.uk%2FFlights-Search%3Fflight-type%3Don%26starDate%3D03%252F05%252F2018%26_xpid%3D11905%257C1%26mode%3Dsearch%26trip%3Doneway%26leg1%3Dfrom%253ALHR%252Cto%253AAMS%252Cdeparture%253A03%252F05%252F2018TANYT%26passengers%3Dchildren%253A0%252Cadults%253A5%252Cseniors%253A0%252Cinfantinlap%253AY&referer=https%3A%2F%2Fwww.expedia.co.uk%2F#master-1"
 1511199025036	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484616"
 1511199025068	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511279142315	geckodriver	INFO	geckodriver 0.19.1
+1511279142324	geckodriver	INFO	Listening on 127.0.0.1:56220
+1511279144407	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MELNAB~1\\AppData\\Local\\Temp\\rust_mozprofile.qormlMIVEDVx"
+1511279145340	addons.manager	DEBUG	Application has been upgraded
+1511279145365	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/XPIProvider.jsm: ["XPIProvider", "XPIInternal"]
+1511279145368	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/LightweightThemeManager.jsm: ["LightweightThemeManager"]
+1511279145397	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/GMPProvider.jsm
+1511279145399	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/PluginProvider.jsm
+1511279145400	addons.manager	DEBUG	Starting provider: XPIProvider
+1511279145400	addons.xpi	DEBUG	startup
+1511279145401	addons.xpi	INFO	SystemAddonInstallLocation directory is missing
+1511279145401	addons.xpi	INFO	Removing all system add-on upgrades.
+1511279145402	addons.xpi	DEBUG	checkForChanges
+1511279145403	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1511279145404	addons.xpi	DEBUG	Loaded add-on state: ${}
+1511279145406	addons.xpi	INFO	Mapping aushelper@mozilla.org to C:\Program Files\Mozilla Firefox\browser\features\aushelper@mozilla.org.xpi
+1511279145406	addons.xpi	INFO	Mapping clicktoplay-rollout@mozilla.org to C:\Program Files\Mozilla Firefox\browser\features\clicktoplay-rollout@mozilla.org.xpi
+1511279145406	addons.xpi	INFO	Mapping e10srollout@mozilla.org to C:\Program Files\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1511279145407	addons.xpi	INFO	Mapping firefox@getpocket.com to C:\Program Files\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1511279145407	addons.xpi	INFO	Mapping followonsearch@mozilla.com to C:\Program Files\Mozilla Firefox\browser\features\followonsearch@mozilla.com.xpi
+1511279145407	addons.xpi	INFO	Mapping screenshots@mozilla.org to C:\Program Files\Mozilla Firefox\browser\features\screenshots@mozilla.org.xpi
+1511279145408	addons.xpi	INFO	Mapping shield-recipe-client@mozilla.org to C:\Program Files\Mozilla Firefox\browser\features\shield-recipe-client@mozilla.org.xpi
+1511279145408	addons.xpi	INFO	Mapping webcompat@mozilla.org to C:\Program Files\Mozilla Firefox\browser\features\webcompat@mozilla.org.xpi
+1511279145408	addons.xpi	DEBUG	New add-on aushelper@mozilla.org in app-system-defaults
+1511279145409	addons.xpi	INFO	Mapping aushelper@mozilla.org to C:\Program Files\Mozilla Firefox\browser\features\aushelper@mozilla.org.xpi
+1511279145410	addons.xpi	DEBUG	New add-on clicktoplay-rollout@mozilla.org in app-system-defaults
+1511279145410	addons.xpi	INFO	Mapping clicktoplay-rollout@mozilla.org to C:\Program Files\Mozilla Firefox\browser\features\clicktoplay-rollout@mozilla.org.xpi
+1511279145410	addons.xpi	DEBUG	New add-on e10srollout@mozilla.org in app-system-defaults
+1511279145410	addons.xpi	INFO	Mapping e10srollout@mozilla.org to C:\Program Files\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1511279145411	addons.xpi	DEBUG	New add-on firefox@getpocket.com in app-system-defaults
+1511279145411	addons.xpi	INFO	Mapping firefox@getpocket.com to C:\Program Files\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1511279145411	addons.xpi	DEBUG	New add-on followonsearch@mozilla.com in app-system-defaults
+1511279145411	addons.xpi	INFO	Mapping followonsearch@mozilla.com to C:\Program Files\Mozilla Firefox\browser\features\followonsearch@mozilla.com.xpi
+1511279145411	addons.xpi	DEBUG	New add-on screenshots@mozilla.org in app-system-defaults
+1511279145411	addons.xpi	INFO	Mapping screenshots@mozilla.org to C:\Program Files\Mozilla Firefox\browser\features\screenshots@mozilla.org.xpi
+1511279145412	addons.xpi	DEBUG	New add-on shield-recipe-client@mozilla.org in app-system-defaults
+1511279145412	addons.xpi	INFO	Mapping shield-recipe-client@mozilla.org to C:\Program Files\Mozilla Firefox\browser\features\shield-recipe-client@mozilla.org.xpi
+1511279145412	addons.xpi	DEBUG	New add-on webcompat@mozilla.org in app-system-defaults
+1511279145412	addons.xpi	INFO	Mapping webcompat@mozilla.org to C:\Program Files\Mozilla Firefox\browser\features\webcompat@mozilla.org.xpi
+1511279145413	addons.xpi	INFO	Mapping {972ce4c6-7e08-4474-a285-3208198ce6fd} to C:\Program Files\Mozilla Firefox\browser\extensions\{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi
+1511279145413	addons.xpi	DEBUG	New add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} in app-global
+1511279145413	addons.xpi	INFO	Mapping {972ce4c6-7e08-4474-a285-3208198ce6fd} to C:\Program Files\Mozilla Firefox\browser\extensions\{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi
+1511279145413	addons.xpi	DEBUG	getInstallState changed: true, state: {}
+1511279145414	addons.xpi	INFO	SystemAddonInstallLocation directory is missing
+1511279145420	addons.xpi-utils	DEBUG	Opening XPI database C:\Users\MELNAB~1\AppData\Local\Temp\rust_mozprofile.qormlMIVEDVx\extensions.json
+1511279145422	addons.xpi-utils	DEBUG	New add-on aushelper@mozilla.org installed in app-system-defaults
+*** Blocklist::_loadBlocklistFromFile: blocklist is disabled
+1511279145443	DeferredSave.extensions.json	DEBUG	Save changes
+1511279145444	addons.xpi-utils	DEBUG	New add-on clicktoplay-rollout@mozilla.org installed in app-system-defaults
+1511279145447	DeferredSave.extensions.json	DEBUG	Starting timer
+1511279145448	DeferredSave.extensions.json	DEBUG	Save changes
+1511279145448	addons.xpi-utils	DEBUG	New add-on e10srollout@mozilla.org installed in app-system-defaults
+1511279145451	DeferredSave.extensions.json	DEBUG	Save changes
+1511279145452	addons.xpi-utils	DEBUG	New add-on firefox@getpocket.com installed in app-system-defaults
+1511279145457	DeferredSave.extensions.json	DEBUG	Save changes
+1511279145457	addons.xpi-utils	DEBUG	New add-on followonsearch@mozilla.com installed in app-system-defaults
+1511279145460	DeferredSave.extensions.json	DEBUG	Save changes
+1511279145460	addons.xpi-utils	DEBUG	New add-on screenshots@mozilla.org installed in app-system-defaults
+1511279145468	DeferredSave.extensions.json	DEBUG	Save changes
+1511279145468	addons.xpi-utils	DEBUG	New add-on shield-recipe-client@mozilla.org installed in app-system-defaults
+1511279145471	DeferredSave.extensions.json	DEBUG	Save changes
+1511279145471	addons.xpi-utils	DEBUG	New add-on webcompat@mozilla.org installed in app-system-defaults
+1511279145474	DeferredSave.extensions.json	DEBUG	Save changes
+1511279145474	addons.xpi-utils	DEBUG	New add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} installed in app-global
+1511279145476	DeferredSave.extensions.json	DEBUG	Save changes
+1511279145477	addons.manager	DEBUG	Registering startup change 'installed' for aushelper@mozilla.org
+1511279145484	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files\Mozilla Firefox\browser\features\aushelper@mozilla.org.xpi
+1511279145488	addons.xpi	DEBUG	Calling bootstrap method install on aushelper@mozilla.org version 2.0
+1511279145488	addons.xpi-utils	DEBUG	Make addon app-system-defaults:aushelper@mozilla.org visible
+1511279145488	addons.xpi	DEBUG	Updating XPIState for {"id":"aushelper@mozilla.org","syncGUID":"{ca76eefd-770f-4a74-9591-9bddb681da56}","location":"app-system-defaults","version":"2.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Application Update Service Helper","description":"Sets value(s) in the update url based on custom checks.","creator":null,"homepageURL":null},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1503583803000,"updateDate":1503583803000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\aushelper@mozilla.org.xpi","skinnable":false,"size":8488,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.3","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1511279145490	DeferredSave.extensions.json	DEBUG	Save changes
+1511279145490	addons.manager	DEBUG	Registering startup change 'installed' for clicktoplay-rollout@mozilla.org
+1511279145491	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files\Mozilla Firefox\browser\features\clicktoplay-rollout@mozilla.org.xpi
+1511279145500	addons.xpi	DEBUG	Calling bootstrap method install on clicktoplay-rollout@mozilla.org version 1.2
+1511279145500	addons.xpi-utils	DEBUG	Make addon app-system-defaults:clicktoplay-rollout@mozilla.org visible
+1511279145500	addons.xpi	DEBUG	Updating XPIState for {"id":"clicktoplay-rollout@mozilla.org","syncGUID":"{706af6bc-593a-4f76-858e-dc7213ae1c2a}","location":"app-system-defaults","version":"1.2","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Click-to-Play staged rollout","description":"Staged rollout for Click-to-Play Flash.","creator":null,"homepageURL":null},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1503583803000,"updateDate":1503583803000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\clicktoplay-rollout@mozilla.org.xpi","skinnable":false,"size":5621,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.3","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1511279145501	DeferredSave.extensions.json	DEBUG	Save changes
+1511279145501	addons.manager	DEBUG	Registering startup change 'installed' for e10srollout@mozilla.org
+1511279145501	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1511279145503	addons.xpi	DEBUG	Calling bootstrap method install on e10srollout@mozilla.org version 2.0
+1511279145504	addons.xpi-utils	DEBUG	Make addon app-system-defaults:e10srollout@mozilla.org visible
+1511279145505	addons.xpi	DEBUG	Updating XPIState for {"id":"e10srollout@mozilla.org","syncGUID":"{9beaae16-7d09-4417-b9c9-a780f8234cf6}","location":"app-system-defaults","version":"2.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Multi-process staged rollout","description":"Staged rollout of Firefox multi-process feature.","creator":null,"homepageURL":null},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1503583803000,"updateDate":1503583803000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\e10srollout@mozilla.org.xpi","skinnable":false,"size":13287,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.3","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1511279145505	DeferredSave.extensions.json	DEBUG	Save changes
+1511279145505	addons.manager	DEBUG	Registering startup change 'installed' for firefox@getpocket.com
+1511279145505	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1511279145509	addons.xpi	DEBUG	Calling bootstrap method install on firefox@getpocket.com version 1.0.5
+1511279145509	addons.xpi-utils	DEBUG	Make addon app-system-defaults:firefox@getpocket.com visible
+1511279145509	addons.xpi	DEBUG	Updating XPIState for {"id":"firefox@getpocket.com","syncGUID":"{56c4c466-24db-4d6c-bdcf-0b65d5002a63}","location":"app-system-defaults","version":"1.0.5","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Pocket","description":"When you find something you want to view later, put it in Pocket.","creator":null,"homepageURL":null},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1503583803000,"updateDate":1503583803000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\firefox@getpocket.com.xpi","skinnable":false,"size":862993,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.3","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1511279145510	DeferredSave.extensions.json	DEBUG	Save changes
+1511279145510	addons.manager	DEBUG	Registering startup change 'installed' for followonsearch@mozilla.com
+1511279145510	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files\Mozilla Firefox\browser\features\followonsearch@mozilla.com.xpi
+1511279145512	addons.xpi	DEBUG	Calling bootstrap method install on followonsearch@mozilla.com version 0.9.1
+1511279145512	addons.xpi-utils	DEBUG	Make addon app-system-defaults:followonsearch@mozilla.com visible
+1511279145512	addons.xpi	DEBUG	Updating XPIState for {"id":"followonsearch@mozilla.com","syncGUID":"{6516d767-47e3-4a6f-931c-db9cedd78aa6}","location":"app-system-defaults","version":"0.9.1","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Follow-on Search Telemetry","description":null,"creator":null,"homepageURL":null},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1503583803000,"updateDate":1503583803000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\followonsearch@mozilla.com.xpi","skinnable":false,"size":16730,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"52.0","maxVersion":"59.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1511279145513	DeferredSave.extensions.json	DEBUG	Save changes
+1511279145513	addons.manager	DEBUG	Registering startup change 'installed' for screenshots@mozilla.org
+1511279145513	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files\Mozilla Firefox\browser\features\screenshots@mozilla.org.xpi
+1511279145515	addons.xpi	DEBUG	Calling bootstrap method install on screenshots@mozilla.org version 10.12.0
+1511279145515	addons.xpi-utils	DEBUG	Make addon app-system-defaults:screenshots@mozilla.org visible
+1511279145515	addons.xpi	DEBUG	Updating XPIState for {"id":"screenshots@mozilla.org","syncGUID":"{dde6cef6-befe-4d2f-8702-eb3d90ac0568}","location":"app-system-defaults","version":"10.12.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Firefox Screenshots","description":null,"creator":null,"homepageURL":"https://pageshot.net/"},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1503583804000,"updateDate":1503583804000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\screenshots@mozilla.org.xpi","skinnable":false,"size":714554,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"51.0a1","maxVersion":"*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1511279145516	DeferredSave.extensions.json	DEBUG	Save changes
+1511279145516	addons.manager	DEBUG	Registering startup change 'installed' for shield-recipe-client@mozilla.org
+1511279145516	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files\Mozilla Firefox\browser\features\shield-recipe-client@mozilla.org.xpi
+1511279145518	addons.xpi	DEBUG	Calling bootstrap method install on shield-recipe-client@mozilla.org version 55.1
+1511279145518	addons.xpi-utils	DEBUG	Make addon app-system-defaults:shield-recipe-client@mozilla.org visible
+1511279145518	addons.xpi	DEBUG	Updating XPIState for {"id":"shield-recipe-client@mozilla.org","syncGUID":"{f679c877-652c-4863-a66e-708bfc5b0c0b}","location":"app-system-defaults","version":"55.1","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Shield Recipe Client","description":"Client to download and run recipes for SHIELD, Heartbeat, etc.","creator":null,"homepageURL":null},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1503583803000,"updateDate":1503583803000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\shield-recipe-client@mozilla.org.xpi","skinnable":false,"size":140305,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.3","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1511279145518	DeferredSave.extensions.json	DEBUG	Save changes
+1511279145518	addons.manager	DEBUG	Registering startup change 'installed' for webcompat@mozilla.org
+1511279145519	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files\Mozilla Firefox\browser\features\webcompat@mozilla.org.xpi
+1511279145521	addons.xpi	DEBUG	Calling bootstrap method install on webcompat@mozilla.org version 1.1
+1511279145521	addons.xpi-utils	DEBUG	Make addon app-system-defaults:webcompat@mozilla.org visible
+1511279145521	addons.xpi	DEBUG	Updating XPIState for {"id":"webcompat@mozilla.org","syncGUID":"{01435012-a499-4462-a1ef-bb79cbb6244d}","location":"app-system-defaults","version":"1.1","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Web Compat","description":"Urgent post-release fixes for web compatibility.","creator":null,"homepageURL":null},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1503583803000,"updateDate":1503583803000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\webcompat@mozilla.org.xpi","skinnable":false,"size":8992,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.3","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1511279145521	DeferredSave.extensions.json	DEBUG	Save changes
+1511279145521	addons.xpi-utils	DEBUG	Make addon app-global:{972ce4c6-7e08-4474-a285-3208198ce6fd} visible
+1511279145521	addons.xpi	DEBUG	Updating XPIState for {"id":"{972ce4c6-7e08-4474-a285-3208198ce6fd}","syncGUID":"{402be83e-8b5f-4919-8b06-a6453a35d44c}","location":"app-global","version":"55.0.3","type":"theme","internalName":"classic/1.0","updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"optionsBrowserStyle":null,"aboutURL":null,"defaultLocale":{"name":"Default","description":"The default theme.","creator":"Mozilla","homepageURL":null,"contributors":["Mozilla Contributors"]},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1503583803000,"updateDate":1503583803000,"applyBackgroundUpdates":1,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi","skinnable":true,"size":7559,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.3","maxVersion":"55.0.3"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null,"icons":{},"iconURL":"chrome://browser/content/default-theme-icon.svg","icon64URL":null}
+1511279145522	DeferredSave.extensions.json	DEBUG	Save changes
+1511279145522	addons.xpi	DEBUG	Updating XPIState for {"id":"aushelper@mozilla.org","syncGUID":"{ca76eefd-770f-4a74-9591-9bddb681da56}","location":"app-system-defaults","version":"2.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Application Update Service Helper","description":"Sets value(s) in the update url based on custom checks.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1503583803000,"updateDate":1503583803000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\aushelper@mozilla.org.xpi","skinnable":false,"size":8488,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.3","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1511279145522	addons.xpi	DEBUG	Updating XPIState for {"id":"clicktoplay-rollout@mozilla.org","syncGUID":"{706af6bc-593a-4f76-858e-dc7213ae1c2a}","location":"app-system-defaults","version":"1.2","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Click-to-Play staged rollout","description":"Staged rollout for Click-to-Play Flash.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1503583803000,"updateDate":1503583803000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\clicktoplay-rollout@mozilla.org.xpi","skinnable":false,"size":5621,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.3","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1511279145522	addons.xpi	DEBUG	Updating XPIState for {"id":"e10srollout@mozilla.org","syncGUID":"{9beaae16-7d09-4417-b9c9-a780f8234cf6}","location":"app-system-defaults","version":"2.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Multi-process staged rollout","description":"Staged rollout of Firefox multi-process feature.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1503583803000,"updateDate":1503583803000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\e10srollout@mozilla.org.xpi","skinnable":false,"size":13287,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.3","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1511279145523	addons.xpi	DEBUG	Updating XPIState for {"id":"firefox@getpocket.com","syncGUID":"{56c4c466-24db-4d6c-bdcf-0b65d5002a63}","location":"app-system-defaults","version":"1.0.5","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Pocket","description":"When you find something you want to view later, put it in Pocket.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1503583803000,"updateDate":1503583803000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\firefox@getpocket.com.xpi","skinnable":false,"size":862993,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.3","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1511279145523	addons.xpi	DEBUG	Updating XPIState for {"id":"followonsearch@mozilla.com","syncGUID":"{6516d767-47e3-4a6f-931c-db9cedd78aa6}","location":"app-system-defaults","version":"0.9.1","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Follow-on Search Telemetry","description":null,"creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1503583803000,"updateDate":1503583803000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\followonsearch@mozilla.com.xpi","skinnable":false,"size":16730,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"52.0","maxVersion":"59.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1511279145524	addons.xpi	DEBUG	Updating XPIState for {"id":"screenshots@mozilla.org","syncGUID":"{dde6cef6-befe-4d2f-8702-eb3d90ac0568}","location":"app-system-defaults","version":"10.12.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Firefox Screenshots","description":null,"creator":null,"homepageURL":"https://pageshot.net/"},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1503583804000,"updateDate":1503583804000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\screenshots@mozilla.org.xpi","skinnable":false,"size":714554,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"51.0a1","maxVersion":"*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1511279145524	addons.xpi	DEBUG	Updating XPIState for {"id":"shield-recipe-client@mozilla.org","syncGUID":"{f679c877-652c-4863-a66e-708bfc5b0c0b}","location":"app-system-defaults","version":"55.1","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Shield Recipe Client","description":"Client to download and run recipes for SHIELD, Heartbeat, etc.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1503583803000,"updateDate":1503583803000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\shield-recipe-client@mozilla.org.xpi","skinnable":false,"size":140305,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.3","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1511279145524	addons.xpi	DEBUG	Updating XPIState for {"id":"webcompat@mozilla.org","syncGUID":"{01435012-a499-4462-a1ef-bb79cbb6244d}","location":"app-system-defaults","version":"1.1","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Web Compat","description":"Urgent post-release fixes for web compatibility.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1503583803000,"updateDate":1503583803000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\webcompat@mozilla.org.xpi","skinnable":false,"size":8992,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.3","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1511279145524	addons.xpi	DEBUG	Updating XPIState for {"id":"{972ce4c6-7e08-4474-a285-3208198ce6fd}","syncGUID":"{402be83e-8b5f-4919-8b06-a6453a35d44c}","location":"app-global","version":"55.0.3","type":"theme","internalName":"classic/1.0","updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"optionsBrowserStyle":null,"aboutURL":null,"defaultLocale":{"name":"Default","description":"The default theme.","creator":"Mozilla","homepageURL":null,"contributors":["Mozilla Contributors"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1503583803000,"updateDate":1503583803000,"applyBackgroundUpdates":1,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi","skinnable":true,"size":7559,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.3","maxVersion":"55.0.3"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null,"icons":{},"iconURL":"chrome://browser/content/default-theme-icon.svg","icon64URL":null}
+1511279145525	DeferredSave.extensions.json	DEBUG	Save changes
+1511279145525	addons.xpi	DEBUG	Updating database with changes to installed add-ons
+1511279145525	addons.xpi-utils	DEBUG	Updating add-on states
+1511279145529	addons.xpi	DEBUG	Registering manifest for C:\Program Files\Mozilla Firefox\browser\features\aushelper@mozilla.org.xpi
+1511279145530	addons.xpi	DEBUG	Calling bootstrap method startup on aushelper@mozilla.org version 2.0
+1511279145531	addons.xpi	DEBUG	Registering manifest for C:\Program Files\Mozilla Firefox\browser\features\clicktoplay-rollout@mozilla.org.xpi
+1511279145532	addons.xpi	DEBUG	Calling bootstrap method startup on clicktoplay-rollout@mozilla.org version 1.2
+1511279145705	addons.xpi	DEBUG	Registering manifest for C:\Program Files\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1511279145706	addons.xpi	DEBUG	Calling bootstrap method startup on e10srollout@mozilla.org version 2.0
+1511279145706	addons.xpi	DEBUG	Registering manifest for C:\Program Files\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1511279145707	addons.xpi	DEBUG	Calling bootstrap method startup on firefox@getpocket.com version 1.0.5
+1511279145738	addons.xpi	DEBUG	Registering manifest for C:\Program Files\Mozilla Firefox\browser\features\followonsearch@mozilla.com.xpi
+1511279145739	addons.xpi	DEBUG	Calling bootstrap method startup on followonsearch@mozilla.com version 0.9.1
+1511279145740	addons.xpi	DEBUG	Registering manifest for C:\Program Files\Mozilla Firefox\browser\features\screenshots@mozilla.org.xpi
+1511279145740	addons.xpi	DEBUG	Calling bootstrap method startup on screenshots@mozilla.org version 10.12.0
+1511279145740	addons.xpi	DEBUG	Registering manifest for C:\Program Files\Mozilla Firefox\browser\features\shield-recipe-client@mozilla.org.xpi
+1511279145741	addons.xpi	DEBUG	Calling bootstrap method startup on shield-recipe-client@mozilla.org version 55.1
+1511279145747	addons.xpi	DEBUG	Registering manifest for C:\Program Files\Mozilla Firefox\browser\features\webcompat@mozilla.org.xpi
+1511279145747	addons.xpi	DEBUG	Calling bootstrap method startup on webcompat@mozilla.org version 1.1
+1511279145784	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+1511279145784	addons.manager	DEBUG	Provider finished startup: XPIProvider
+1511279145784	addons.manager	DEBUG	Starting provider: LightweightThemeManager
+1511279145784	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+1511279145784	addons.manager	DEBUG	Provider finished startup: LightweightThemeManager
+1511279145785	addons.manager	DEBUG	Starting provider: GMPProvider
+1511279145791	addons.manager	DEBUG	Registering shutdown blocker for GMPProvider
+1511279145792	addons.manager	DEBUG	Provider finished startup: GMPProvider
+1511279145792	addons.manager	DEBUG	Starting provider: PluginProvider
+1511279145792	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+1511279145792	addons.manager	DEBUG	Provider finished startup: PluginProvider
+1511279145792	addons.manager	DEBUG	Completed startup sequence
+1511279145956	Marionette	INFO	Enabled via --marionette
+1511279146469	addons.manager	DEBUG	Starting provider: PreviousExperimentProvider
+1511279146469	addons.manager	DEBUG	Registering shutdown blocker for PreviousExperimentProvider
+1511279146469	addons.manager	DEBUG	Provider finished startup: PreviousExperimentProvider
+1511279146470	DeferredSave.extensions.json	DEBUG	Starting write
+1511279146664	DeferredSave.extensions.json	DEBUG	Write succeeded
+1511279146664	addons.xpi-utils	DEBUG	XPI Database saved, setting schema version preference to 21
+1511279147552	addons.manager	DEBUG	Starting provider: <unnamed-provider>
+1511279147552	addons.manager	DEBUG	Registering shutdown blocker for <unnamed-provider>
+1511279147553	addons.manager	DEBUG	Provider finished startup: <unnamed-provider>
+1511279147555	addons.xpi	INFO	Mapping aushelper@mozilla.org to C:\Program Files\Mozilla Firefox\browser\features\aushelper@mozilla.org.xpi
+1511279147556	addons.xpi	INFO	Mapping clicktoplay-rollout@mozilla.org to C:\Program Files\Mozilla Firefox\browser\features\clicktoplay-rollout@mozilla.org.xpi
+1511279147556	addons.xpi	INFO	Mapping e10srollout@mozilla.org to C:\Program Files\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1511279147556	addons.xpi	INFO	Mapping firefox@getpocket.com to C:\Program Files\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1511279147556	addons.xpi	INFO	Mapping followonsearch@mozilla.com to C:\Program Files\Mozilla Firefox\browser\features\followonsearch@mozilla.com.xpi
+1511279147556	addons.xpi	INFO	Mapping screenshots@mozilla.org to C:\Program Files\Mozilla Firefox\browser\features\screenshots@mozilla.org.xpi
+1511279147556	addons.xpi	INFO	Mapping shield-recipe-client@mozilla.org to C:\Program Files\Mozilla Firefox\browser\features\shield-recipe-client@mozilla.org.xpi
+1511279147556	addons.xpi	INFO	Mapping webcompat@mozilla.org to C:\Program Files\Mozilla Firefox\browser\features\webcompat@mozilla.org.xpi
+1511279147557	addons.xpi	DEBUG	Existing add-on aushelper@mozilla.org in app-system-defaults
+1511279147557	addons.xpi	DEBUG	Existing add-on clicktoplay-rollout@mozilla.org in app-system-defaults
+1511279147558	addons.xpi	DEBUG	Existing add-on e10srollout@mozilla.org in app-system-defaults
+1511279147558	addons.xpi	DEBUG	Existing add-on firefox@getpocket.com in app-system-defaults
+1511279147558	addons.xpi	DEBUG	Existing add-on followonsearch@mozilla.com in app-system-defaults
+1511279147558	addons.xpi	DEBUG	Existing add-on screenshots@mozilla.org in app-system-defaults
+1511279147559	addons.xpi	DEBUG	Existing add-on shield-recipe-client@mozilla.org in app-system-defaults
+1511279147559	addons.xpi	DEBUG	Existing add-on webcompat@mozilla.org in app-system-defaults
+1511279147559	addons.xpi	INFO	Mapping {972ce4c6-7e08-4474-a285-3208198ce6fd} to C:\Program Files\Mozilla Firefox\browser\extensions\{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi
+1511279147559	addons.xpi	DEBUG	Existing add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} in app-global
+1511279147559	addons.xpi	DEBUG	getInstallState changed: false, state: {}
+Unable to read VR Path Registry from C:\Users\melnabawy\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 8752] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511279147613	addons.productaddons	INFO	sending request to: https://aus5.mozilla.org/update/3/GMP/55.0.3/20170824053622/WINNT_x86_64-msvc-x64/en-US/release/Windows_NT%206.1.1.0%20(x64)/default/default/update.xml
+Unable to read VR Path Registry from C:\Users\melnabawy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6392] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6392] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511279147709	Marionette	INFO	Listening on port 56227
+1511279147746	Marionette	INFO	Listening on port 56227
+1511279148036	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511279148064	Marionette	DEBUG	loaded listener.js
+1511279148127	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511279148444	addons.productaddons	INFO	Completed downloading document
+1511279148782	addons.productaddons	INFO	downloadXHR File download. status=200
+1511279148790	addons.productaddons	INFO	Downloaded file will be saved to C:\Users\MELNAB~1\AppData\Local\Temp\tmpaddon-6c639a
+1511279149075	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511279149075	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511279149195	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/"
+Unable to read VR Path Registry from C:\Users\melnabawy\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://suggest.expedia.com/api/v4/ping?callback=jQuery18204331569514465162_1511279149732&_=1511279149747, line 1: SyntaxError: missing ; before statement
+JavaScript error: https://c.travel-assets.com/globalcontrols-service/content/2f5f8d27ec208c9c59f7f178056bf11aa5aeb0b0/scripts/3/en_GB/globalcontrols-min.js, line 13: TypeError: doneCallback is not a function
+1511279151062	addons.productaddons	INFO	downloadXHR File download. status=200
+1511279151065	addons.productaddons	INFO	Downloaded file will be saved to C:\Users\MELNAB~1\AppData\Local\Temp\tmpaddon-667b69
+JavaScript error: https://a.travel-assets.com/datacapture/2/js/dctk.js, line 22: Error: 4301 (The given (TPID, EAPID) pair (3, 0) is not valid for the Experiment 13696)
+JavaScript error: https://a.travel-assets.com/datacapture/2/js/dctk.js, line 22: Error: 4301 (The given (TPID, EAPID) pair (3, 0) is not valid for the Experiment 7203)
+1511279154021	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/"
+1511279154024	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/"
+1511279154186	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=q1jglrva2&kxt=https%3A%2F%2Fwww.expedia.co.uk&kxcl=cdn&kxp="
+1511279154258	Marionette	DEBUG	Received DOM event "pageshow" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=q1jglrva2&kxt=https%3A%2F%2Fwww.expedia.co.uk&kxcl=cdn&kxp="
+1511279154441	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://2588791.fls.doubleclick.net/activityi;src=2588791;type=emeau111;cat=emeau642;ord=6607744242365.322?"
+1511279154514	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://adservice.google.com/ddm/fls/i/src=2588791;type=emeau111;cat=emeau642;ord=6607744242365.322;_dc_1=1;~oref=https://www.expedia.co.uk/"
+1511279154615	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://adservice.google.co.uk/ddm/fls/i/src=2588791;type=emeau111;cat=emeau642;ord=6607744242365.322;_dc_1=3;~oref=https://www.expedia.co.uk/"
+1511279154617	Marionette	DEBUG	Received DOM event "pageshow" for "https://adservice.google.co.uk/ddm/fls/i/src=2588791;type=emeau111;cat=emeau642;ord=6607744242365.322;_dc_1=3;~oref=https://www.expedia.co.uk/"
+1511279154618	Marionette	DEBUG	Received DOM event "pageshow" for "https://adservice.google.com/ddm/fls/i/src=2588791;type=emeau111;cat=emeau642;ord=6607744242365.322;_dc_1=1;~oref=https://www.expedia.co.uk/"
+1511279154618	Marionette	DEBUG	Received DOM event "pageshow" for "https://2588791.fls.doubleclick.net/activityi;src=2588791;type=emeau111;cat=emeau642;ord=6607744242365.322?"
+1511279154888	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pix.impdesk.com/csync/fire/multi.html?inc=obk,exp"
+1511279155848	Marionette	DEBUG	Received DOM event "pageshow" for "https://pix.impdesk.com/csync/fire/multi.html?inc=obk,exp"
+1511279156106	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/"
+1511279157120	Marionette	DEBUG	Received DOM event "pagehide" for "about:srcdoc"
+1511279157128	Marionette	DEBUG	Received DOM event "pagehide" for "about:srcdoc"
+1511279157137	Marionette	DEBUG	Received DOM event "pagehide" for "about:srcdoc"
+1511279157142	Marionette	DEBUG	Received DOM event "pagehide" for "about:srcdoc"
+1511279157146	Marionette	DEBUG	Received DOM event "pagehide" for "about:srcdoc"
+1511279157160	Marionette	DEBUG	Received DOM event "pagehide" for "about:srcdoc"
+1511279157272	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967328"
+1511279157284	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967330"
+1511279157319	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967332"
+1511279157319	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
+1511279157320	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967336"
+1511279157321	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967340"
+1511279157348	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.co.uk/"
+1511279157351	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.co.uk/"
+1511279157353	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.co.uk/"
+1511279157355	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.co.uk/"
+1511279157358	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.co.uk/"
+1511279157361	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.co.uk/"
+1511279157504	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511279158069	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511279159434	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.co.uk/"
+1511279159520	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.co.uk/"
+1511279159540	Marionette	DEBUG	Received DOM event "pagehide" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1511279159576	Marionette	DEBUG	Received DOM event "pagehide" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1511279159578	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.co.uk/"
+1511279159584	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/tr/"
+1511279159587	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967387"
+1511279159657	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511279159915	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.expedia.co.uk/"
+1511279160769	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.co.uk/"
+1511279160787	Marionette	DEBUG	Received DOM event "unload" for "https://www.expedia.co.uk/"
+1511279160914	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967363"
+1511279160914	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967342"
+1511279160915	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967344"
+1511279160915	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967346"
+1511279160915	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967348"
+1511279160916	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967377"
+1511279160916	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967385"
+1511279160916	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967369"
+1511279160916	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967350"
+1511279160917	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967367"
+1511279160917	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967375"
+1511279160918	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967380"
+1511279160918	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967365"
+1511279160918	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967338"
+1511279160918	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967379"
+1511279160918	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967381"
+1511279160919	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967373"
+1511279160919	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967353"
+1511279160919	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1511279160920	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1511279160920	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967308"
+1511279160920	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1511279160920	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967361"
+1511279160920	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967393"
+1511279160920	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1511279160921	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1511279161300	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=27%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALHR%2Cto%3AHAM%2Cdeparture%3A27%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511279162246	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967396"
+1511279162246	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967397"
+1511279162246	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967398"
+1511279162269	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=27%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALHR%2Cto%3AHAM%2Cdeparture%3A27%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511279162271	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=27%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALHR%2Cto%3AHAM%2Cdeparture%3A27%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511279162272	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=27%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALHR%2Cto%3AHAM%2Cdeparture%3A27%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511279162273	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=27%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALHR%2Cto%3AHAM%2Cdeparture%3A27%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511279162273	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=27%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALHR%2Cto%3AHAM%2Cdeparture%3A27%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511279162275	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=27%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALHR%2Cto%3AHAM%2Cdeparture%3A27%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511279162794	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967399"
+1511279162794	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967400"
+1511279162794	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967401"
+1511279162857	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=27%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALHR%2Cto%3AHAM%2Cdeparture%3A27%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511279162858	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=27%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALHR%2Cto%3AHAM%2Cdeparture%3A27%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511279162901	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1511279162983	Marionette	DEBUG	Received DOM event "pageshow" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1511279163026	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1511279163105	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/xbbe/pixel?d=CNizMBDclFgY6t2GJzAB&v=APEucNVOdbA0l4LCZAYPGb2D0K200fY67tZdhBgZLKOhVHna-6ocURIis48KPs9yCMSi53ahpamt"
+1511279163157	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tpc.googlesyndication.com/sodar/Ix4UrfoN.html"
+1511279163159	Marionette	DEBUG	Received DOM event "pageshow" for "https://tpc.googlesyndication.com/sodar/Ix4UrfoN.html"
+1511279163229	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=27%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALHR%2Cto%3AHAM%2Cdeparture%3A27%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511279163399	Marionette	DEBUG	Received DOM event "pageshow" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1511279163426	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=27%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALHR%2Cto%3AHAM%2Cdeparture%3A27%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511279163434	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=27%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALHR%2Cto%3AHAM%2Cdeparture%3A27%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511279163457	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=27%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALHR%2Cto%3AHAM%2Cdeparture%3A27%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511279163519	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1511279163535	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/html/r20171113/r20170110/zrt_lookup.html#"
+1511279163538	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/html/r20171113/r20170110/zrt_lookup.html#"
+1511279163579	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1511279163580	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1511279163581	Marionette	DEBUG	Received DOM event "pageshow" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1511279163582	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://a.cdn.intentmedia.net/a1/cookie_setter.html?publisher_user_id=B33B3BF2-B49E-453C-8418-08D26817599C&ad_unit_tag_id=exp_uk_sca_flt_lst_xu&exit_unit_source=flight_list_page&origination=LHR&destination=HAM&page_id=flights.results.redesign&site=EXPEDIA_UK&site_name=EXPEDIA_UK&site_country=GB&site_language=en&site_currency=GBP&bucket=a1&privacy_policy_link=https%3A%2F%2Fwww.expedia.co.uk%2Fp%2Fsupport%2Fprivacy&trip_type=ONE_WAY&flight_origin=LHR&flight_destination=HAM&show_overlay=N&travel_date_start=20171127&travel_date_end=20171127&travelers=1&adults=1&children=0&display_format_type=Desktop&show_ads=Y&show_exit_units=Y&publisher_session_id=6be1473c-fc8f-46e9-9067-79e778fff8d7&is_member=N&is_logged_in_user=N&product_category=flights&is_signed_up_for_promo_email=N&user_previously_searched=N&page_view_type=LIST&expedia_cookie_aspp=v.1%2C0%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C&credit_card_types=&publisher_user_id_hashed=25bdd68c8db60e48b3f63d8cb411c469&publisher_session_id_hashed=c164ba40c3fa4a82841e8a9419a9b81c&site_reporting_value_06=page.flight-search-oneway&cache_buster=6501559&screen_width=1264&screen_height=879&screen_pixel_depth=24&time_zone_offset=0&screen_size=full_screen&page_initialization_id=59acc9f4-6b1c-4e95-bc57-6305c7ada7b3&hotel_airport_code=HAM&request_generator=im-js&altsvc=false&requested_number_of_prechecks=2&hang_on_failed=false&koth=false"
+1511279163583	Marionette	DEBUG	Received DOM event "pageshow" for "https://a.cdn.intentmedia.net/a1/cookie_setter.html?publisher_user_id=B33B3BF2-B49E-453C-8418-08D26817599C&ad_unit_tag_id=exp_uk_sca_flt_lst_xu&exit_unit_source=flight_list_page&origination=LHR&destination=HAM&page_id=flights.results.redesign&site=EXPEDIA_UK&site_name=EXPEDIA_UK&site_country=GB&site_language=en&site_currency=GBP&bucket=a1&privacy_policy_link=https%3A%2F%2Fwww.expedia.co.uk%2Fp%2Fsupport%2Fprivacy&trip_type=ONE_WAY&flight_origin=LHR&flight_destination=HAM&show_overlay=N&travel_date_start=20171127&travel_date_end=20171127&travelers=1&adults=1&children=0&display_format_type=Desktop&show_ads=Y&show_exit_units=Y&publisher_session_id=6be1473c-fc8f-46e9-9067-79e778fff8d7&is_member=N&is_logged_in_user=N&product_category=flights&is_signed_up_for_promo_email=N&user_previously_searched=N&page_view_type=LIST&expedia_cookie_aspp=v.1%2C0%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C&credit_card_types=&publisher_user_id_hashed=25bdd68c8db60e48b3f63d8cb411c469&publisher_session_id_hashed=c164ba40c3fa4a82841e8a9419a9b81c&site_reporting_value_06=page.flight-search-oneway&cache_buster=6501559&screen_width=1264&screen_height=879&screen_pixel_depth=24&time_zone_offset=0&screen_size=full_screen&page_initialization_id=59acc9f4-6b1c-4e95-bc57-6305c7ada7b3&hotel_airport_code=HAM&request_generator=im-js&altsvc=false&requested_number_of_prechecks=2&hang_on_failed=false&koth=false"
+1511279163765	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s0.2mdn.net/6322016/1510226708323/TCA_11_160x600/160x600.html"
+1511279163775	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.cdn-net.com/s2?t=AeTwe6cWuUFuCKzWClMtpUL7&x=1&sid=eeb0e3596d8e435b89bf23a76&tid=2v78yfksj&expuserid=&guid=b33b3bf2b49e453c841808d26817599c"
+1511279163776	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.cdn-net.com/s2?t=AeTwe6cWuUFuCKzWClMtpUL7&x=1&sid=eeb0e3596d8e435b89bf23a76&tid=2v78yfksj&expuserid=&guid=b33b3bf2b49e453c841808d26817599c"
+1511279163804	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s0.2mdn.net/6322016/1510226708323/TCA_11_160x600/160x600_edge.js"
+1511279163806	Marionette	DEBUG	Received DOM event "pageshow" for "https://s0.2mdn.net/6322016/1510226708323/TCA_11_160x600/160x600_edge.js"
+1511279163807	Marionette	DEBUG	Received DOM event "pageshow" for "https://s0.2mdn.net/6322016/1510226708323/TCA_11_160x600/160x600.html"
+1511279163858	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://a.travel-assets.com/media/meso/programmatic/Expedia/UK/Ecom_728x90_collections_UK_EN.html"
+1511279163858	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967438"
+1511279163895	Marionette	DEBUG	Received DOM event "pageshow" for "https://a.travel-assets.com/media/meso/programmatic/Expedia/UK/Ecom_728x90_collections_UK_EN.html"
+1511279163896	Marionette	DEBUG	Received DOM event "pageshow" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1511279163902	Marionette	DEBUG	Received DOM event "pageshow" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1511279164371	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/xbbe/pixel?d=CNizMBDclFgY6t2GJzAB&v=APEucNVOdbA0l4LCZAYPGb2D0K200fY67tZdhBgZLKOhVHna-6ocURIis48KPs9yCMSi53ahpamt"
+1511279164378	Marionette	DEBUG	Received DOM event "pageshow" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1511279164384	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=27%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALHR%2Cto%3AHAM%2Cdeparture%3A27%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511279168168	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=27%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALHR%2Cto%3AHAM%2Cdeparture%3A27%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511279168171	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=27%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALHR%2Cto%3AHAM%2Cdeparture%3A27%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511279168173	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\melnabawy\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5788] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511279171549	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=27%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALHR%2Cto%3AHAM%2Cdeparture%3A27%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511279171861	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=27%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALHR%2Cto%3AHAM%2Cdeparture%3A27%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511279171869	Marionette	DEBUG	Received DOM event "unload" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=27%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALHR%2Cto%3AHAM%2Cdeparture%3A27%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511279172102	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967428"
+1511279172102	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967433"
+1511279172103	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967435"
+1511279172103	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967426"
+1511279172103	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967405"
+1511279172104	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967464"
+1511279172104	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967443"
+1511279172104	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967466"
+1511279172106	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967441"
+1511279172106	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967420"
+1511279172106	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967416"
+1511279172106	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967417"
+1511279172106	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967409"
+1511279172107	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967475"
+1511279172107	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967445"
+1511279172107	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967407"
+1511279172107	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967455"
+1511279172107	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967414"
+1511279172108	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967421"
+1511279172108	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967429"
+1511279172108	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967457"
+1511279172108	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967460"
+1511279172108	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967462"
+JavaScript error: https://suggest.expedia.com/api/v4/ping?callback=jQuery182023931776550866324_1511279172174&_=1511279172350, line 1: SyntaxError: missing ; before statement
+1511279172500	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/"
+1511279173297	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967480"
+1511279173298	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967481"
+1511279173298	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967482"
+1511279173299	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967483"
+1511279173299	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967484"
+1511279173299	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967485"
+1511279173299	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967486"
+1511279173318	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/"
+1511279173320	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/"
+1511279173320	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/"
+1511279173320	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/"
+1511279173321	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/"
+1511279173321	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/"
+1511279173322	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/"
+1511279173323	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/"
+1511279173323	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/"
+1511279173324	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/"
+1511279173325	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/"
+1511279173326	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/"
+1511279173326	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/"
+1511279173327	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/"
+1511279173714	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967487"
+1511279173722	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967488"
+1511279173722	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967489"
+1511279173723	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967490"
+1511279173725	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967491"
+1511279173726	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967492"
+1511279173726	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967493"
+1511279173824	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/"
+1511279173825	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/"
+1511279174278	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1511279174281	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1511279174349	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1511279174350	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1511279174351	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1511279174398	Marionette	DEBUG	Received DOM event "pageshow" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1511279174405	Marionette	DEBUG	Received DOM event "pageshow" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1511279174408	Marionette	DEBUG	Received DOM event "pageshow" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1511279174411	Marionette	DEBUG	Received DOM event "pageshow" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1511279174440	Marionette	DEBUG	Received DOM event "pageshow" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1511279174463	Marionette	DEBUG	Received DOM event "pageshow" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1511279174524	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1511279174525	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1511279174542	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/html/r20171113/r20170110/zrt_lookup.html#"
+1511279174546	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/html/r20171113/r20170110/zrt_lookup.html#"
+1511279174553	Marionette	DEBUG	Received DOM event "pageshow" for "https://virginatlantic.demdex.net/event?d_bust=2077430352&d_src=111318&tmad=i&d_event=imp&tmplaceref=Client_2016&d_campaign=59334&tmclickref=_Expedia_Travel_Geo_IS_%5BDEST_-_%28Geo%29_TLA_Destination%5D_%5BFlorida%2C_MCO%2C_MIA%5DORTravel_Geo_IS_%5BPDEST_-_%28Geo%29_TLA_Previous_Searched_Destinations%5D_%5BFlorida%2C_MCO%2C_MIA%5D&d_creative=50126&d_placement=2601374"
+1511279174564	Marionette	DEBUG	Received DOM event "pageshow" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+JavaScript error: https://a.travel-assets.com/datacapture/2/js/dctk.js, line 22: Error: 4301 (The given (TPID, EAPID) pair (3, 0) is not valid for the Experiment 13696)
+JavaScript error: https://a.travel-assets.com/datacapture/2/js/dctk.js, line 22: Error: 4301 (The given (TPID, EAPID) pair (3, 0) is not valid for the Experiment 7203)
+1511279175704	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1511279175705	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1511279175744	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1511279175747	Marionette	DEBUG	Received DOM event "pageshow" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1511279175747	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1511279175749	Marionette	DEBUG	Received DOM event "pageshow" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1511279175902	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://a.travel-assets.com/media/meso/programmatic/Expedia/UK/Ecom_300x250_collections_UK_EN.html"
+1511279175905	Marionette	DEBUG	Received DOM event "pageshow" for "https://a.travel-assets.com/media/meso/programmatic/Expedia/UK/Ecom_300x250_collections_UK_EN.html"
+1511279175906	Marionette	DEBUG	Received DOM event "pageshow" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1511279175912	Marionette	DEBUG	Received DOM event "pageshow" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1511279175926	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://a.travel-assets.com/media/meso/programmatic/Expedia/UK/Ecom_300x250_collections_UK_EN.html"
+1511279175931	Marionette	DEBUG	Received DOM event "pageshow" for "https://a.travel-assets.com/media/meso/programmatic/Expedia/UK/Ecom_300x250_collections_UK_EN.html"
+1511279175932	Marionette	DEBUG	Received DOM event "pageshow" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1511279175938	Marionette	DEBUG	Received DOM event "pageshow" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1511279176792	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/"
+1511279176797	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/"
+1511279176946	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://2588791.fls.doubleclick.net/activityi;src=2588791;type=emeau111;cat=emeau642;ord=3785876972569.1587?"
+1511279176950	Marionette	DEBUG	Received DOM event "pageshow" for "https://2588791.fls.doubleclick.net/activityi;src=2588791;type=emeau111;cat=emeau642;ord=3785876972569.1587?"
+1511279176953	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=q1jglrva2&kxt=https%3A%2F%2Fwww.expedia.co.uk&kxcl=cdn&kxp="
+1511279176962	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pix.impdesk.com/csync/fire/multi.html?inc=obk,exp"
+1511279177022	Marionette	DEBUG	Received DOM event "pageshow" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=q1jglrva2&kxt=https%3A%2F%2Fwww.expedia.co.uk&kxcl=cdn&kxp="
+1511279177378	Marionette	DEBUG	Received DOM event "pageshow" for "https://pix.impdesk.com/csync/fire/multi.html?inc=obk,exp"
+1511279177782	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/"
+1511279178177	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511279178481	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511279179412	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.co.uk/"
+1511279179460	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.co.uk/"
+1511279179463	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/tr/"
+1511279179466	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967555"
+1511279179603	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511279179910	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511279180146	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.expedia.co.uk/"
+1511279181024	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.co.uk/"
+1511279181046	Marionette	DEBUG	Received DOM event "unload" for "https://www.expedia.co.uk/"
+1511279181167	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967524"
+1511279181168	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967501"
+1511279181168	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967503"
+1511279181169	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967505"
+1511279181169	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967507"
+1511279181170	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967528"
+1511279181170	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967536"
+1511279181170	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967538"
+1511279181170	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967526"
+1511279181171	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967509"
+1511279181171	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967534"
+1511279181171	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967537"
+1511279181171	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967529"
+1511279181172	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967511"
+1511279181172	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967513"
+1511279181172	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967544"
+1511279181172	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967522"
+1511279181172	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967546"
+1511279181172	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967558"
+1511279181172	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967548"
+1511279181173	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967549"
+1511279181526	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=29%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3AHAM%2Cto%3ALHR%2Cdeparture%3A29%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A2%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511279182725	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967562"
+1511279182725	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967563"
+1511279182725	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967564"
+1511279182761	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=29%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3AHAM%2Cto%3ALHR%2Cdeparture%3A29%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A2%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511279182763	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=29%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3AHAM%2Cto%3ALHR%2Cdeparture%3A29%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A2%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511279182769	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=29%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3AHAM%2Cto%3ALHR%2Cdeparture%3A29%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A2%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511279182770	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=29%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3AHAM%2Cto%3ALHR%2Cdeparture%3A29%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A2%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511279182770	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=29%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3AHAM%2Cto%3ALHR%2Cdeparture%3A29%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A2%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511279182772	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=29%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3AHAM%2Cto%3ALHR%2Cdeparture%3A29%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A2%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511279182920	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=29%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3AHAM%2Cto%3ALHR%2Cdeparture%3A29%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A2%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511279183004	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://a.cdn.intentmedia.net/a1/cookie_setter.html?publisher_user_id=B33B3BF2-B49E-453C-8418-08D26817599C&ad_unit_tag_id=exp_uk_sca_flt_lst_xu&exit_unit_source=flight_list_page&origination=HAM&destination=LHR&page_id=flights.results.redesign&site=EXPEDIA_UK&site_name=EXPEDIA_UK&site_country=GB&site_language=en&site_currency=GBP&bucket=a1&privacy_policy_link=https%3A%2F%2Fwww.expedia.co.uk%2Fp%2Fsupport%2Fprivacy&trip_type=ONE_WAY&flight_origin=HAM&flight_destination=LHR&show_overlay=N&travel_date_start=20171129&travel_date_end=20171129&travelers=2&adults=2&children=0&display_format_type=Desktop&show_ads=Y&show_exit_units=Y&publisher_session_id=6be1473c-fc8f-46e9-9067-79e778fff8d7&is_member=N&is_logged_in_user=N&product_category=flights&is_signed_up_for_promo_email=N&user_previously_searched=N&page_view_type=LIST&expedia_cookie_aspp=v.1%2C0%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C&machine_id=5b521070-449c-4a8b-bb9e-15894f0e7dfd&credit_card_types=&publisher_user_id_hashed=25bdd68c8db60e48b3f63d8cb411c469&publisher_session_id_hashed=c164ba40c3fa4a82841e8a9419a9b81c&machine_id_hashed=86239fe3078539467a5ebfc720355c08&site_reporting_value_06=page.flight-search-oneway&cache_buster=6158113&screen_width=1264&screen_height=879&screen_pixel_depth=24&time_zone_offset=0&screen_size=full_screen&page_initialization_id=faf4ee52-3201-49fb-afad-443c779896de&hotel_airport_code=LHR&request_generator=im-js&altsvc=false&requested_number_of_prechecks=2&hang_on_failed=false&koth=false"
+1511279183005	Marionette	DEBUG	Received DOM event "pageshow" for "https://a.cdn.intentmedia.net/a1/cookie_setter.html?publisher_user_id=B33B3BF2-B49E-453C-8418-08D26817599C&ad_unit_tag_id=exp_uk_sca_flt_lst_xu&exit_unit_source=flight_list_page&origination=HAM&destination=LHR&page_id=flights.results.redesign&site=EXPEDIA_UK&site_name=EXPEDIA_UK&site_country=GB&site_language=en&site_currency=GBP&bucket=a1&privacy_policy_link=https%3A%2F%2Fwww.expedia.co.uk%2Fp%2Fsupport%2Fprivacy&trip_type=ONE_WAY&flight_origin=HAM&flight_destination=LHR&show_overlay=N&travel_date_start=20171129&travel_date_end=20171129&travelers=2&adults=2&children=0&display_format_type=Desktop&show_ads=Y&show_exit_units=Y&publisher_session_id=6be1473c-fc8f-46e9-9067-79e778fff8d7&is_member=N&is_logged_in_user=N&product_category=flights&is_signed_up_for_promo_email=N&user_previously_searched=N&page_view_type=LIST&expedia_cookie_aspp=v.1%2C0%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C&machine_id=5b521070-449c-4a8b-bb9e-15894f0e7dfd&credit_card_types=&publisher_user_id_hashed=25bdd68c8db60e48b3f63d8cb411c469&publisher_session_id_hashed=c164ba40c3fa4a82841e8a9419a9b81c&machine_id_hashed=86239fe3078539467a5ebfc720355c08&site_reporting_value_06=page.flight-search-oneway&cache_buster=6158113&screen_width=1264&screen_height=879&screen_pixel_depth=24&time_zone_offset=0&screen_size=full_screen&page_initialization_id=faf4ee52-3201-49fb-afad-443c779896de&hotel_airport_code=LHR&request_generator=im-js&altsvc=false&requested_number_of_prechecks=2&hang_on_failed=false&koth=false"
+1511279183075	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967565"
+1511279183091	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967566"
+1511279183091	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967567"
+1511279183157	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=29%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3AHAM%2Cto%3ALHR%2Cdeparture%3A29%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A2%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511279183158	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=29%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3AHAM%2Cto%3ALHR%2Cdeparture%3A29%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A2%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511279183213	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1511279183225	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1511279183245	Marionette	DEBUG	Received DOM event "pageshow" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1511279183287	Marionette	DEBUG	Received DOM event "pageshow" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1511279183329	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1511279183401	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s0.2mdn.net/6322016/1510226708323/TCA_11_160x600/160x600.html"
+1511279183419	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s0.2mdn.net/6322016/1510226708323/TCA_11_160x600/160x600_edge.js"
+1511279183421	Marionette	DEBUG	Received DOM event "pageshow" for "https://s0.2mdn.net/6322016/1510226708323/TCA_11_160x600/160x600_edge.js"
+1511279183422	Marionette	DEBUG	Received DOM event "pageshow" for "https://s0.2mdn.net/6322016/1510226708323/TCA_11_160x600/160x600.html"
+1511279183428	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/xbbe/pixel?d=CNizMBDclFgY6t2GJzAB&v=APEucNX8Pjh6pkaSiw9okf17xHM1onAQPwd8Zt10QNgEXjzSeZFs3mP8Y4TneyPS3SYvDDDHkogM"
+1511279183436	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tpc.googlesyndication.com/sodar/Ix4UrfoN.html"
+1511279183438	Marionette	DEBUG	Received DOM event "pageshow" for "https://tpc.googlesyndication.com/sodar/Ix4UrfoN.html"
+1511279183475	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967597"
+1511279184055	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/xbbe/pixel?d=CNizMBDclFgY6t2GJzAB&v=APEucNX8Pjh6pkaSiw9okf17xHM1onAQPwd8Zt10QNgEXjzSeZFs3mP8Y4TneyPS3SYvDDDHkogM"
+1511279184060	Marionette	DEBUG	Received DOM event "pageshow" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1511279184067	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=29%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3AHAM%2Cto%3ALHR%2Cdeparture%3A29%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A2%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511279185176	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511279189139	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=29%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3AHAM%2Cto%3ALHR%2Cdeparture%3A29%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A2%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511279189544	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=29%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3AHAM%2Cto%3ALHR%2Cdeparture%3A29%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A2%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511279189552	Marionette	DEBUG	Received DOM event "unload" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=29%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3AHAM%2Cto%3ALHR%2Cdeparture%3A29%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A2%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511279189760	Marionette	DEBUG	Received DOM event "pageshow" for "about:blank"
+1511279189882	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967578"
+1511279189883	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967590"
+1511279189883	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967593"
+1511279189883	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967595"
+1511279189883	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967582"
+1511279189884	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967580"
+1511279189884	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967615"
+1511279189885	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967575"
+1511279189885	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967588"
+1511279189885	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967617"
+1511279190190	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967613"
+1511279190191	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/"
+JavaScript error: https://suggest.expedia.com/api/v4/ping?callback=jQuery182026467745808066434_1511279192045&_=1511279192239, line 1: SyntaxError: missing ; before statement
+1511279193466	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967656"
+1511279193488	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967636"
+1511279195119	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967652"
+JavaScript error: https://a.travel-assets.com/datacapture/2/js/dctk.js, line 22: Error: 4301 (The given (TPID, EAPID) pair (3, 0) is not valid for the Experiment 13696)
+JavaScript error: https://a.travel-assets.com/datacapture/2/js/dctk.js, line 22: Error: 4301 (The given (TPID, EAPID) pair (3, 0) is not valid for the Experiment 7203)
+1511279196444	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967665"
+1511279196641	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/"
+1511279196666	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/"
+1511279196760	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967667"
+1511279196795	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967659"
+1511279197118	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://2588791.fls.doubleclick.net/activityi;src=2588791;type=emeau111;cat=emeau642;ord=5634015310613.442?"
+1511279197119	Marionette	DEBUG	Received DOM event "pageshow" for "https://2588791.fls.doubleclick.net/activityi;src=2588791;type=emeau111;cat=emeau642;ord=5634015310613.442?"
+1511279197219	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=q1jglrva2&kxt=https%3A%2F%2Fwww.expedia.co.uk&kxcl=cdn&kxp="
+1511279197242	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pix.impdesk.com/csync/fire/multi.html?inc=obk,exp"
+1511279197422	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967703"
+1511279197429	Marionette	DEBUG	Received DOM event "pageshow" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=q1jglrva2&kxt=https%3A%2F%2Fwww.expedia.co.uk&kxcl=cdn&kxp="
+1511279197429	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967674"
+1511279197811	Marionette	DEBUG	Received DOM event "pageshow" for "https://pix.impdesk.com/csync/fire/multi.html?inc=obk,exp"
+1511279198564	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/"
+1511279199937	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967724"
+1511279199937	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967726"
+1511279199992	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967728"
+1511279199992	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967730"
+1511279199993	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967732"
+1511279199994	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967736"
+1511279199995	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.co.uk/"
+1511279200017	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.co.uk/"
+1511279200019	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.co.uk/"
+1511279200021	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.co.uk/"
+1511279200023	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.co.uk/"
+1511279200024	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.co.uk/"
+1511279200329	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511279201159	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511279203069	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.co.uk/"
+1511279203300	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511279203645	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511279203834	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.expedia.co.uk/"
+1511279204809	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.co.uk/"
+1511279204824	Marionette	DEBUG	Received DOM event "unload" for "https://www.expedia.co.uk/"
+1511279204971	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967746"
+1511279204971	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967748"
+1511279204972	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967750"
+1511279204972	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967752"
+1511279204972	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967778"
+1511279204972	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967781"
+1511279204972	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967770"
+1511279204973	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967754"
+1511279204973	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967769"
+1511279204973	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967776"
+1511279204973	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967782"
+1511279204973	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967767"
+1511279204973	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967734"
+1511279204974	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967780"
+1511279204974	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967786"
+1511279204974	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967774"
+1511279204974	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967757"
+1511279204974	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967677"
+1511279204974	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967681"
+1511279204974	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967765"
+1511279204975	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967798"
+1511279204975	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967689"
+1511279204975	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967690"
+1511279205446	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=04%2F12%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALIS%2Cto%3AOPO%2Cdeparture%3A04%2F12%2F2017TANYT&passengers=children%3A0%2Cadults%3A6%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511279206222	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967801"
+1511279206222	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967802"
+1511279206222	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967803"
+1511279206249	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=04%2F12%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALIS%2Cto%3AOPO%2Cdeparture%3A04%2F12%2F2017TANYT&passengers=children%3A0%2Cadults%3A6%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511279206254	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=04%2F12%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALIS%2Cto%3AOPO%2Cdeparture%3A04%2F12%2F2017TANYT&passengers=children%3A0%2Cadults%3A6%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511279206254	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=04%2F12%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALIS%2Cto%3AOPO%2Cdeparture%3A04%2F12%2F2017TANYT&passengers=children%3A0%2Cadults%3A6%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511279206255	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=04%2F12%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALIS%2Cto%3AOPO%2Cdeparture%3A04%2F12%2F2017TANYT&passengers=children%3A0%2Cadults%3A6%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511279206264	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=04%2F12%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALIS%2Cto%3AOPO%2Cdeparture%3A04%2F12%2F2017TANYT&passengers=children%3A0%2Cadults%3A6%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511279206265	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=04%2F12%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALIS%2Cto%3AOPO%2Cdeparture%3A04%2F12%2F2017TANYT&passengers=children%3A0%2Cadults%3A6%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511279206492	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967804"
+1511279206492	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967805"
+1511279206492	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967806"
+1511279206566	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=04%2F12%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALIS%2Cto%3AOPO%2Cdeparture%3A04%2F12%2F2017TANYT&passengers=children%3A0%2Cadults%3A6%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511279206567	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=04%2F12%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALIS%2Cto%3AOPO%2Cdeparture%3A04%2F12%2F2017TANYT&passengers=children%3A0%2Cadults%3A6%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511279206628	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1511279206667	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1511279206678	Marionette	DEBUG	Received DOM event "pageshow" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1511279206683	Marionette	DEBUG	Received DOM event "pageshow" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1511279206815	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=04%2F12%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALIS%2Cto%3AOPO%2Cdeparture%3A04%2F12%2F2017TANYT&passengers=children%3A0%2Cadults%3A6%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511279206957	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://a.cdn.intentmedia.net/a1/cookie_setter.html?publisher_user_id=B33B3BF2-B49E-453C-8418-08D26817599C&ad_unit_tag_id=exp_uk_sca_flt_lst_xu&exit_unit_source=flight_list_page&origination=LIS&destination=OPO&page_id=flights.results.redesign&site=EXPEDIA_UK&site_name=EXPEDIA_UK&site_country=GB&site_language=en&site_currency=GBP&bucket=a1&privacy_policy_link=https%3A%2F%2Fwww.expedia.co.uk%2Fp%2Fsupport%2Fprivacy&trip_type=ONE_WAY&flight_origin=LIS&flight_destination=OPO&show_overlay=N&travel_date_start=20171204&travel_date_end=20171204&travelers=6&adults=6&children=0&display_format_type=Desktop&show_ads=Y&show_exit_units=Y&publisher_session_id=6be1473c-fc8f-46e9-9067-79e778fff8d7&is_member=N&is_logged_in_user=N&product_category=flights&is_signed_up_for_promo_email=N&user_previously_searched=N&page_view_type=LIST&expedia_cookie_aspp=v.1%2C0%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C&machine_id=5b521070-449c-4a8b-bb9e-15894f0e7dfd&credit_card_types=&publisher_user_id_hashed=25bdd68c8db60e48b3f63d8cb411c469&publisher_session_id_hashed=c164ba40c3fa4a82841e8a9419a9b81c&machine_id_hashed=86239fe3078539467a5ebfc720355c08&site_reporting_value_06=page.flight-search-oneway&cache_buster=7835376&screen_width=1264&screen_height=879&screen_pixel_depth=24&time_zone_offset=0&screen_size=full_screen&page_initialization_id=5f1d6a89-fe12-4c28-ba22-1773a882ef07&hotel_airport_code=OPO&request_generator=im-js&altsvc=false&requested_number_of_prechecks=2&hang_on_failed=false&koth=false"
+1511279206959	Marionette	DEBUG	Received DOM event "pageshow" for "https://a.cdn.intentmedia.net/a1/cookie_setter.html?publisher_user_id=B33B3BF2-B49E-453C-8418-08D26817599C&ad_unit_tag_id=exp_uk_sca_flt_lst_xu&exit_unit_source=flight_list_page&origination=LIS&destination=OPO&page_id=flights.results.redesign&site=EXPEDIA_UK&site_name=EXPEDIA_UK&site_country=GB&site_language=en&site_currency=GBP&bucket=a1&privacy_policy_link=https%3A%2F%2Fwww.expedia.co.uk%2Fp%2Fsupport%2Fprivacy&trip_type=ONE_WAY&flight_origin=LIS&flight_destination=OPO&show_overlay=N&travel_date_start=20171204&travel_date_end=20171204&travelers=6&adults=6&children=0&display_format_type=Desktop&show_ads=Y&show_exit_units=Y&publisher_session_id=6be1473c-fc8f-46e9-9067-79e778fff8d7&is_member=N&is_logged_in_user=N&product_category=flights&is_signed_up_for_promo_email=N&user_previously_searched=N&page_view_type=LIST&expedia_cookie_aspp=v.1%2C0%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C&machine_id=5b521070-449c-4a8b-bb9e-15894f0e7dfd&credit_card_types=&publisher_user_id_hashed=25bdd68c8db60e48b3f63d8cb411c469&publisher_session_id_hashed=c164ba40c3fa4a82841e8a9419a9b81c&machine_id_hashed=86239fe3078539467a5ebfc720355c08&site_reporting_value_06=page.flight-search-oneway&cache_buster=7835376&screen_width=1264&screen_height=879&screen_pixel_depth=24&time_zone_offset=0&screen_size=full_screen&page_initialization_id=5f1d6a89-fe12-4c28-ba22-1773a882ef07&hotel_airport_code=OPO&request_generator=im-js&altsvc=false&requested_number_of_prechecks=2&hang_on_failed=false&koth=false"
+1511279206987	Marionette	DEBUG	Received DOM event "pageshow" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1511279207022	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1511279207024	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/html/r20171113/r20170110/zrt_lookup.html#"
+1511279207026	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/html/r20171113/r20170110/zrt_lookup.html#"
+1511279208757	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1511279208780	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1511279208782	Marionette	DEBUG	Received DOM event "pageshow" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1511279209237	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2572582711826905&output=html&h=90&slotname=9384794369%2F4675165289&adk=2432612227&adf=2601504598&w=728&loeid=38893313&url=https%3A%2F%2Fwww.expedia.co.uk%2FFlights-Search%3Fflight-type%3Don%26starDate%3D04%252F12%252F2017%26_xpid%3D11905%257C1%26mode%3Dsearch%26trip%3Doneway%26leg1%3Dfrom%253ALIS%252Cto%253AOPO%252Cdeparture%253A04%252F12%252F2017TANYT%26passengers%3Dchildren%253A0%252Cadults%253A6%252Cseniors%253A0%252Cinfantinlap%253AY&ea=0&flash=0&wgl=1&adsid=NT&dt=1511279206970&bpp=12&bdt=467&fdt=18&idt=1747&shv=r20171113&cbv=r20170110&saldr=sa&correlator=3259901799910&frm=24&ga_vid=1374080737.1511279209&ga_sid=1511279209&ga_hid=1067101918&ga_fc=0&pv=2&icsg=2&nhd=2&dssz=2&mdo=0&mso=0&u_tz=0&u_his=6&u_java=0&u_h=1080&u_w=1920&u_ah=1080&u_aw=1858&u_cd=24&u_nplug=0&u_nmime=0&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=728&ish=90&ifk=2008206672&eid=21061122%2C38893303&oid=3&nmo=1&zm=1.75&rx=0&eae=2&brdim=%2C%2C459%2C12%2C1858%2C0%2C1280%2C972%2C728%2C90&vis=1&rsz=%7C%7CceE%7C&abl=NS&ppjl=u&pfx=0&fu=16&bc=1&ifi=1&dtd=1776"
+1511279209274	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pagead2.googlesyndication.com/pagead/s/cookie_push.html#aHR0cHM6Ly9waXhlbC1hLnNpdGVzY291dC5jb20vZG1wL3BpeGVsU3luYz9uZXR3b3JrPUFkWCZnb29nbGVfZ2lkPUNBRVNFS0xzdlJvQWR3bGM0XzBBQ1B0NVJIcyZnb29nbGVfY3Zlcj0xJmdvb2dsZV9wdXNoPUFITkYxM0lsOEEyTXY3WUthbVk2Q3hsd2QzdVFQWjRCbTdqWVBrZG9KZDJCVFE=,aHR0cHM6Ly9jbS5nLmRvdWJsZWNsaWNrLm5ldC9waXhlbC9hdHRyP2Q9QUhORjEzTHhRbkNCN1dOb1JiSXJhSUhVdG1RdFBnNHJVbFFq"
+1511279209274	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/xbbe/pixel?d=CLXnfBDIqn4Y7KyWJzAB&v=APEucNXxjZUqfjsPbq7WEeliZLLLYQR-s5hKr2lmkDkPXc3xSVcStccKyGJavjbIAEinak8Rho1K"
+1511279209290	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tpc.googlesyndication.com/sodar/Ix4UrfoN.html"
+1511279209294	Marionette	DEBUG	Received DOM event "pageshow" for "https://tpc.googlesyndication.com/sodar/Ix4UrfoN.html"
+1511279209556	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s0.2mdn.net/ads/richmedia/studio/pv2/60436718/20171110013529492/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=NhTFPUbxBE&t=1"
+1511279209560	Marionette	DEBUG	Received DOM event "pageshow" for "https://s0.2mdn.net/ads/richmedia/studio/pv2/60436718/20171110013529492/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=NhTFPUbxBE&t=1"
+1511279209583	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/xbbe/pixel?d=CLXnfBDIqn4Y7KyWJzAB&v=APEucNXxjZUqfjsPbq7WEeliZLLLYQR-s5hKr2lmkDkPXc3xSVcStccKyGJavjbIAEinak8Rho1K"
+1511279209592	Marionette	DEBUG	Received DOM event "pageshow" for "https://pagead2.googlesyndication.com/pagead/s/cookie_push.html#aHR0cHM6Ly9waXhlbC1hLnNpdGVzY291dC5jb20vZG1wL3BpeGVsU3luYz9uZXR3b3JrPUFkWCZnb29nbGVfZ2lkPUNBRVNFS0xzdlJvQWR3bGM0XzBBQ1B0NVJIcyZnb29nbGVfY3Zlcj0xJmdvb2dsZV9wdXNoPUFITkYxM0lsOEEyTXY3WUthbVk2Q3hsd2QzdVFQWjRCbTdqWVBrZG9KZDJCVFE=,aHR0cHM6Ly9jbS5nLmRvdWJsZWNsaWNrLm5ldC9waXhlbC9hdHRyP2Q9QUhORjEzTHhRbkNCN1dOb1JiSXJhSUhVdG1RdFBnNHJVbFFq"
+1511279209596	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2572582711826905&output=html&h=90&slotname=9384794369%2F4675165289&adk=2432612227&adf=2601504598&w=728&loeid=38893313&url=https%3A%2F%2Fwww.expedia.co.uk%2FFlights-Search%3Fflight-type%3Don%26starDate%3D04%252F12%252F2017%26_xpid%3D11905%257C1%26mode%3Dsearch%26trip%3Doneway%26leg1%3Dfrom%253ALIS%252Cto%253AOPO%252Cdeparture%253A04%252F12%252F2017TANYT%26passengers%3Dchildren%253A0%252Cadults%253A6%252Cseniors%253A0%252Cinfantinlap%253AY&ea=0&flash=0&wgl=1&adsid=NT&dt=1511279206970&bpp=12&bdt=467&fdt=18&idt=1747&shv=r20171113&cbv=r20170110&saldr=sa&correlator=3259901799910&frm=24&ga_vid=1374080737.1511279209&ga_sid=1511279209&ga_hid=1067101918&ga_fc=0&pv=2&icsg=2&nhd=2&dssz=2&mdo=0&mso=0&u_tz=0&u_his=6&u_java=0&u_h=1080&u_w=1920&u_ah=1080&u_aw=1858&u_cd=24&u_nplug=0&u_nmime=0&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=728&ish=90&ifk=2008206672&eid=21061122%2C38893303&oid=3&nmo=1&zm=1.75&rx=0&eae=2&brdim=%2C%2C459%2C12%2C1858%2C0%2C1280%2C972%2C728%2C90&vis=1&rsz=%7C%7CceE%7C&abl=NS&ppjl=u&pfx=0&fu=16&bc=1&ifi=1&dtd=1776"
+1511279209598	Marionette	DEBUG	Received DOM event "pageshow" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1511279209603	Marionette	DEBUG	Received DOM event "pageshow" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1511279209608	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=04%2F12%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALIS%2Cto%3AOPO%2Cdeparture%3A04%2F12%2F2017TANYT&passengers=children%3A0%2Cadults%3A6%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511279210095	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511279213481	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=04%2F12%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALIS%2Cto%3AOPO%2Cdeparture%3A04%2F12%2F2017TANYT&passengers=children%3A0%2Cadults%3A6%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511279213804	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=04%2F12%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALIS%2Cto%3AOPO%2Cdeparture%3A04%2F12%2F2017TANYT&passengers=children%3A0%2Cadults%3A6%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511279213811	Marionette	DEBUG	Received DOM event "unload" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=04%2F12%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALIS%2Cto%3AOPO%2Cdeparture%3A04%2F12%2F2017TANYT&passengers=children%3A0%2Cadults%3A6%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511279214038	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967826"
+1511279214038	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967835"
+1511279214038	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967833"
+1511279214039	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967834"
+1511279214039	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967838"
+1511279214039	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967828"
+1511279214039	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967829"
+1511279214040	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967824"
+1511279214040	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967810"
+1511279214040	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967851"
+1511279214041	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967844"
+1511279214041	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967853"
+1511279214041	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967842"
+1511279214041	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967814"
+1511279214041	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967855"
+1511279214041	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967846"
+1511279214042	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967812"
+1511279214042	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967861"
+1511279214042	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967819"
+1511279214042	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967821"
+1511279214042	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967863"
+1511279214042	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967866"
+1511279214043	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967868"
+1511279214177	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/"
+[GPU 8752] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511279214736	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967297"
+1511279269139	addons.xpi	DEBUG	Calling bootstrap method shutdown on webcompat@mozilla.org version 1.1
+1511279269139	addons.xpi	DEBUG	Calling bootstrap method shutdown on shield-recipe-client@mozilla.org version 55.1
+1511279269143	addons.xpi	DEBUG	Calling bootstrap method shutdown on screenshots@mozilla.org version 10.12.0
+1511279269144	addons.xpi	DEBUG	Calling bootstrap method shutdown on followonsearch@mozilla.com version 0.9.1
+1511279269145	addons.xpi	DEBUG	Calling bootstrap method shutdown on firefox@getpocket.com version 1.0.5
+1511279269145	addons.xpi	DEBUG	Calling bootstrap method shutdown on e10srollout@mozilla.org version 2.0
+1511279269146	addons.xpi	DEBUG	Calling bootstrap method shutdown on clicktoplay-rollout@mozilla.org version 1.2
+1511279269146	addons.xpi	DEBUG	Calling bootstrap method shutdown on aushelper@mozilla.org version 2.0
+[GPU 8752] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511279490629	geckodriver	INFO	geckodriver 0.19.1
+1511279490638	geckodriver	INFO	Listening on 127.0.0.1:57752
+1511279492732	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MELNAB~1\\AppData\\Local\\Temp\\rust_mozprofile.FSPUmyPho0xK"
+1511279492952	addons.manager	DEBUG	Application has been upgraded
+1511279492970	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/XPIProvider.jsm: ["XPIProvider", "XPIInternal"]
+1511279492972	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/LightweightThemeManager.jsm: ["LightweightThemeManager"]
+1511279492993	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/GMPProvider.jsm
+1511279492995	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/PluginProvider.jsm
+1511279492996	addons.manager	DEBUG	Starting provider: XPIProvider
+1511279492996	addons.xpi	DEBUG	startup
+1511279492997	addons.xpi	INFO	SystemAddonInstallLocation directory is missing
+1511279492997	addons.xpi	INFO	Removing all system add-on upgrades.
+1511279492998	addons.xpi	DEBUG	checkForChanges
+1511279492998	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1511279493000	addons.xpi	DEBUG	Loaded add-on state: ${}
+1511279493001	addons.xpi	INFO	Mapping aushelper@mozilla.org to C:\Program Files\Mozilla Firefox\browser\features\aushelper@mozilla.org.xpi
+1511279493001	addons.xpi	INFO	Mapping clicktoplay-rollout@mozilla.org to C:\Program Files\Mozilla Firefox\browser\features\clicktoplay-rollout@mozilla.org.xpi
+1511279493001	addons.xpi	INFO	Mapping e10srollout@mozilla.org to C:\Program Files\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1511279493001	addons.xpi	INFO	Mapping firefox@getpocket.com to C:\Program Files\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1511279493002	addons.xpi	INFO	Mapping followonsearch@mozilla.com to C:\Program Files\Mozilla Firefox\browser\features\followonsearch@mozilla.com.xpi
+1511279493002	addons.xpi	INFO	Mapping screenshots@mozilla.org to C:\Program Files\Mozilla Firefox\browser\features\screenshots@mozilla.org.xpi
+1511279493002	addons.xpi	INFO	Mapping shield-recipe-client@mozilla.org to C:\Program Files\Mozilla Firefox\browser\features\shield-recipe-client@mozilla.org.xpi
+1511279493002	addons.xpi	INFO	Mapping webcompat@mozilla.org to C:\Program Files\Mozilla Firefox\browser\features\webcompat@mozilla.org.xpi
+1511279493003	addons.xpi	DEBUG	New add-on aushelper@mozilla.org in app-system-defaults
+1511279493003	addons.xpi	INFO	Mapping aushelper@mozilla.org to C:\Program Files\Mozilla Firefox\browser\features\aushelper@mozilla.org.xpi
+1511279493004	addons.xpi	DEBUG	New add-on clicktoplay-rollout@mozilla.org in app-system-defaults
+1511279493004	addons.xpi	INFO	Mapping clicktoplay-rollout@mozilla.org to C:\Program Files\Mozilla Firefox\browser\features\clicktoplay-rollout@mozilla.org.xpi
+1511279493004	addons.xpi	DEBUG	New add-on e10srollout@mozilla.org in app-system-defaults
+1511279493005	addons.xpi	INFO	Mapping e10srollout@mozilla.org to C:\Program Files\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1511279493005	addons.xpi	DEBUG	New add-on firefox@getpocket.com in app-system-defaults
+1511279493005	addons.xpi	INFO	Mapping firefox@getpocket.com to C:\Program Files\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1511279493005	addons.xpi	DEBUG	New add-on followonsearch@mozilla.com in app-system-defaults
+1511279493005	addons.xpi	INFO	Mapping followonsearch@mozilla.com to C:\Program Files\Mozilla Firefox\browser\features\followonsearch@mozilla.com.xpi
+1511279493006	addons.xpi	DEBUG	New add-on screenshots@mozilla.org in app-system-defaults
+1511279493006	addons.xpi	INFO	Mapping screenshots@mozilla.org to C:\Program Files\Mozilla Firefox\browser\features\screenshots@mozilla.org.xpi
+1511279493006	addons.xpi	DEBUG	New add-on shield-recipe-client@mozilla.org in app-system-defaults
+1511279493006	addons.xpi	INFO	Mapping shield-recipe-client@mozilla.org to C:\Program Files\Mozilla Firefox\browser\features\shield-recipe-client@mozilla.org.xpi
+1511279493006	addons.xpi	DEBUG	New add-on webcompat@mozilla.org in app-system-defaults
+1511279493007	addons.xpi	INFO	Mapping webcompat@mozilla.org to C:\Program Files\Mozilla Firefox\browser\features\webcompat@mozilla.org.xpi
+1511279493007	addons.xpi	INFO	Mapping {972ce4c6-7e08-4474-a285-3208198ce6fd} to C:\Program Files\Mozilla Firefox\browser\extensions\{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi
+1511279493007	addons.xpi	DEBUG	New add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} in app-global
+1511279493007	addons.xpi	INFO	Mapping {972ce4c6-7e08-4474-a285-3208198ce6fd} to C:\Program Files\Mozilla Firefox\browser\extensions\{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi
+1511279493008	addons.xpi	DEBUG	getInstallState changed: true, state: {}
+1511279493008	addons.xpi	INFO	SystemAddonInstallLocation directory is missing
+1511279493014	addons.xpi-utils	DEBUG	Opening XPI database C:\Users\MELNAB~1\AppData\Local\Temp\rust_mozprofile.FSPUmyPho0xK\extensions.json
+1511279493015	addons.xpi-utils	DEBUG	New add-on aushelper@mozilla.org installed in app-system-defaults
+*** Blocklist::_loadBlocklistFromFile: blocklist is disabled
+1511279493034	DeferredSave.extensions.json	DEBUG	Save changes
+1511279493036	addons.xpi-utils	DEBUG	New add-on clicktoplay-rollout@mozilla.org installed in app-system-defaults
+1511279493038	DeferredSave.extensions.json	DEBUG	Starting timer
+1511279493039	DeferredSave.extensions.json	DEBUG	Save changes
+1511279493039	addons.xpi-utils	DEBUG	New add-on e10srollout@mozilla.org installed in app-system-defaults
+1511279493042	DeferredSave.extensions.json	DEBUG	Save changes
+1511279493042	addons.xpi-utils	DEBUG	New add-on firefox@getpocket.com installed in app-system-defaults
+1511279493046	DeferredSave.extensions.json	DEBUG	Save changes
+1511279493046	addons.xpi-utils	DEBUG	New add-on followonsearch@mozilla.com installed in app-system-defaults
+1511279493048	DeferredSave.extensions.json	DEBUG	Save changes
+1511279493048	addons.xpi-utils	DEBUG	New add-on screenshots@mozilla.org installed in app-system-defaults
+1511279493054	DeferredSave.extensions.json	DEBUG	Save changes
+1511279493054	addons.xpi-utils	DEBUG	New add-on shield-recipe-client@mozilla.org installed in app-system-defaults
+1511279493057	DeferredSave.extensions.json	DEBUG	Save changes
+1511279493057	addons.xpi-utils	DEBUG	New add-on webcompat@mozilla.org installed in app-system-defaults
+1511279493059	DeferredSave.extensions.json	DEBUG	Save changes
+1511279493059	addons.xpi-utils	DEBUG	New add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} installed in app-global
+1511279493061	DeferredSave.extensions.json	DEBUG	Save changes
+1511279493062	addons.manager	DEBUG	Registering startup change 'installed' for aushelper@mozilla.org
+1511279493068	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files\Mozilla Firefox\browser\features\aushelper@mozilla.org.xpi
+1511279493070	addons.xpi	DEBUG	Calling bootstrap method install on aushelper@mozilla.org version 2.0
+1511279493070	addons.xpi-utils	DEBUG	Make addon app-system-defaults:aushelper@mozilla.org visible
+1511279493070	addons.xpi	DEBUG	Updating XPIState for {"id":"aushelper@mozilla.org","syncGUID":"{fff4e554-86de-49f1-9839-6b687a0c27e8}","location":"app-system-defaults","version":"2.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Application Update Service Helper","description":"Sets value(s) in the update url based on custom checks.","creator":null,"homepageURL":null},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1503583803000,"updateDate":1503583803000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\aushelper@mozilla.org.xpi","skinnable":false,"size":8488,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.3","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1511279493072	DeferredSave.extensions.json	DEBUG	Save changes
+1511279493072	addons.manager	DEBUG	Registering startup change 'installed' for clicktoplay-rollout@mozilla.org
+1511279493073	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files\Mozilla Firefox\browser\features\clicktoplay-rollout@mozilla.org.xpi
+1511279493081	addons.xpi	DEBUG	Calling bootstrap method install on clicktoplay-rollout@mozilla.org version 1.2
+1511279493082	addons.xpi-utils	DEBUG	Make addon app-system-defaults:clicktoplay-rollout@mozilla.org visible
+1511279493082	addons.xpi	DEBUG	Updating XPIState for {"id":"clicktoplay-rollout@mozilla.org","syncGUID":"{2d74dbb0-6c5c-4cbd-b555-7991f6b94e47}","location":"app-system-defaults","version":"1.2","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Click-to-Play staged rollout","description":"Staged rollout for Click-to-Play Flash.","creator":null,"homepageURL":null},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1503583803000,"updateDate":1503583803000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\clicktoplay-rollout@mozilla.org.xpi","skinnable":false,"size":5621,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.3","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1511279493082	DeferredSave.extensions.json	DEBUG	Save changes
+1511279493082	addons.manager	DEBUG	Registering startup change 'installed' for e10srollout@mozilla.org
+1511279493083	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1511279493085	addons.xpi	DEBUG	Calling bootstrap method install on e10srollout@mozilla.org version 2.0
+1511279493086	addons.xpi-utils	DEBUG	Make addon app-system-defaults:e10srollout@mozilla.org visible
+1511279493086	addons.xpi	DEBUG	Updating XPIState for {"id":"e10srollout@mozilla.org","syncGUID":"{335f66e0-3c1e-4e8e-bed1-db84180eb573}","location":"app-system-defaults","version":"2.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Multi-process staged rollout","description":"Staged rollout of Firefox multi-process feature.","creator":null,"homepageURL":null},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1503583803000,"updateDate":1503583803000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\e10srollout@mozilla.org.xpi","skinnable":false,"size":13287,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.3","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1511279493086	DeferredSave.extensions.json	DEBUG	Save changes
+1511279493086	addons.manager	DEBUG	Registering startup change 'installed' for firefox@getpocket.com
+1511279493087	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1511279493091	addons.xpi	DEBUG	Calling bootstrap method install on firefox@getpocket.com version 1.0.5
+1511279493091	addons.xpi-utils	DEBUG	Make addon app-system-defaults:firefox@getpocket.com visible
+1511279493091	addons.xpi	DEBUG	Updating XPIState for {"id":"firefox@getpocket.com","syncGUID":"{d1ec0f3d-938a-494d-895c-637ea66cba0d}","location":"app-system-defaults","version":"1.0.5","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Pocket","description":"When you find something you want to view later, put it in Pocket.","creator":null,"homepageURL":null},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1503583803000,"updateDate":1503583803000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\firefox@getpocket.com.xpi","skinnable":false,"size":862993,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.3","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1511279493091	DeferredSave.extensions.json	DEBUG	Save changes
+1511279493091	addons.manager	DEBUG	Registering startup change 'installed' for followonsearch@mozilla.com
+1511279493092	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files\Mozilla Firefox\browser\features\followonsearch@mozilla.com.xpi
+1511279493094	addons.xpi	DEBUG	Calling bootstrap method install on followonsearch@mozilla.com version 0.9.1
+1511279493094	addons.xpi-utils	DEBUG	Make addon app-system-defaults:followonsearch@mozilla.com visible
+1511279493094	addons.xpi	DEBUG	Updating XPIState for {"id":"followonsearch@mozilla.com","syncGUID":"{d2c5a331-5c57-40e2-85b0-26e2f86c4afc}","location":"app-system-defaults","version":"0.9.1","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Follow-on Search Telemetry","description":null,"creator":null,"homepageURL":null},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1503583803000,"updateDate":1503583803000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\followonsearch@mozilla.com.xpi","skinnable":false,"size":16730,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"52.0","maxVersion":"59.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1511279493094	DeferredSave.extensions.json	DEBUG	Save changes
+1511279493094	addons.manager	DEBUG	Registering startup change 'installed' for screenshots@mozilla.org
+1511279493095	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files\Mozilla Firefox\browser\features\screenshots@mozilla.org.xpi
+1511279493097	addons.xpi	DEBUG	Calling bootstrap method install on screenshots@mozilla.org version 10.12.0
+1511279493097	addons.xpi-utils	DEBUG	Make addon app-system-defaults:screenshots@mozilla.org visible
+1511279493097	addons.xpi	DEBUG	Updating XPIState for {"id":"screenshots@mozilla.org","syncGUID":"{3360f41b-cd0d-41f9-b6b8-7d92877f05ea}","location":"app-system-defaults","version":"10.12.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Firefox Screenshots","description":null,"creator":null,"homepageURL":"https://pageshot.net/"},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1503583804000,"updateDate":1503583804000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\screenshots@mozilla.org.xpi","skinnable":false,"size":714554,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"51.0a1","maxVersion":"*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1511279493097	DeferredSave.extensions.json	DEBUG	Save changes
+1511279493098	addons.manager	DEBUG	Registering startup change 'installed' for shield-recipe-client@mozilla.org
+1511279493098	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files\Mozilla Firefox\browser\features\shield-recipe-client@mozilla.org.xpi
+1511279493100	addons.xpi	DEBUG	Calling bootstrap method install on shield-recipe-client@mozilla.org version 55.1
+1511279493100	addons.xpi-utils	DEBUG	Make addon app-system-defaults:shield-recipe-client@mozilla.org visible
+1511279493100	addons.xpi	DEBUG	Updating XPIState for {"id":"shield-recipe-client@mozilla.org","syncGUID":"{f9be7b48-41ff-4cb5-a1f3-eccd9d6497b0}","location":"app-system-defaults","version":"55.1","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Shield Recipe Client","description":"Client to download and run recipes for SHIELD, Heartbeat, etc.","creator":null,"homepageURL":null},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1503583803000,"updateDate":1503583803000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\shield-recipe-client@mozilla.org.xpi","skinnable":false,"size":140305,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.3","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1511279493100	DeferredSave.extensions.json	DEBUG	Save changes
+1511279493100	addons.manager	DEBUG	Registering startup change 'installed' for webcompat@mozilla.org
+1511279493101	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files\Mozilla Firefox\browser\features\webcompat@mozilla.org.xpi
+1511279493103	addons.xpi	DEBUG	Calling bootstrap method install on webcompat@mozilla.org version 1.1
+1511279493103	addons.xpi-utils	DEBUG	Make addon app-system-defaults:webcompat@mozilla.org visible
+1511279493103	addons.xpi	DEBUG	Updating XPIState for {"id":"webcompat@mozilla.org","syncGUID":"{bde801d6-5f6b-458a-b4bf-bf5812953c0f}","location":"app-system-defaults","version":"1.1","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Web Compat","description":"Urgent post-release fixes for web compatibility.","creator":null,"homepageURL":null},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1503583803000,"updateDate":1503583803000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\webcompat@mozilla.org.xpi","skinnable":false,"size":8992,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.3","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1511279493103	DeferredSave.extensions.json	DEBUG	Save changes
+1511279493103	addons.xpi-utils	DEBUG	Make addon app-global:{972ce4c6-7e08-4474-a285-3208198ce6fd} visible
+1511279493104	addons.xpi	DEBUG	Updating XPIState for {"id":"{972ce4c6-7e08-4474-a285-3208198ce6fd}","syncGUID":"{bd1e41ad-26de-450f-801c-3e34d25a62bb}","location":"app-global","version":"55.0.3","type":"theme","internalName":"classic/1.0","updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"optionsBrowserStyle":null,"aboutURL":null,"defaultLocale":{"name":"Default","description":"The default theme.","creator":"Mozilla","homepageURL":null,"contributors":["Mozilla Contributors"]},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1503583803000,"updateDate":1503583803000,"applyBackgroundUpdates":1,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi","skinnable":true,"size":7559,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.3","maxVersion":"55.0.3"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null,"icons":{},"iconURL":"chrome://browser/content/default-theme-icon.svg","icon64URL":null}
+1511279493104	DeferredSave.extensions.json	DEBUG	Save changes
+1511279493104	addons.xpi	DEBUG	Updating XPIState for {"id":"aushelper@mozilla.org","syncGUID":"{fff4e554-86de-49f1-9839-6b687a0c27e8}","location":"app-system-defaults","version":"2.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Application Update Service Helper","description":"Sets value(s) in the update url based on custom checks.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1503583803000,"updateDate":1503583803000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\aushelper@mozilla.org.xpi","skinnable":false,"size":8488,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.3","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1511279493105	addons.xpi	DEBUG	Updating XPIState for {"id":"clicktoplay-rollout@mozilla.org","syncGUID":"{2d74dbb0-6c5c-4cbd-b555-7991f6b94e47}","location":"app-system-defaults","version":"1.2","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Click-to-Play staged rollout","description":"Staged rollout for Click-to-Play Flash.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1503583803000,"updateDate":1503583803000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\clicktoplay-rollout@mozilla.org.xpi","skinnable":false,"size":5621,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.3","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1511279493105	addons.xpi	DEBUG	Updating XPIState for {"id":"e10srollout@mozilla.org","syncGUID":"{335f66e0-3c1e-4e8e-bed1-db84180eb573}","location":"app-system-defaults","version":"2.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Multi-process staged rollout","description":"Staged rollout of Firefox multi-process feature.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1503583803000,"updateDate":1503583803000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\e10srollout@mozilla.org.xpi","skinnable":false,"size":13287,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.3","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1511279493105	addons.xpi	DEBUG	Updating XPIState for {"id":"firefox@getpocket.com","syncGUID":"{d1ec0f3d-938a-494d-895c-637ea66cba0d}","location":"app-system-defaults","version":"1.0.5","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Pocket","description":"When you find something you want to view later, put it in Pocket.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1503583803000,"updateDate":1503583803000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\firefox@getpocket.com.xpi","skinnable":false,"size":862993,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.3","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1511279493105	addons.xpi	DEBUG	Updating XPIState for {"id":"followonsearch@mozilla.com","syncGUID":"{d2c5a331-5c57-40e2-85b0-26e2f86c4afc}","location":"app-system-defaults","version":"0.9.1","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Follow-on Search Telemetry","description":null,"creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1503583803000,"updateDate":1503583803000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\followonsearch@mozilla.com.xpi","skinnable":false,"size":16730,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"52.0","maxVersion":"59.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1511279493106	addons.xpi	DEBUG	Updating XPIState for {"id":"screenshots@mozilla.org","syncGUID":"{3360f41b-cd0d-41f9-b6b8-7d92877f05ea}","location":"app-system-defaults","version":"10.12.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Firefox Screenshots","description":null,"creator":null,"homepageURL":"https://pageshot.net/"},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1503583804000,"updateDate":1503583804000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\screenshots@mozilla.org.xpi","skinnable":false,"size":714554,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"51.0a1","maxVersion":"*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1511279493106	addons.xpi	DEBUG	Updating XPIState for {"id":"shield-recipe-client@mozilla.org","syncGUID":"{f9be7b48-41ff-4cb5-a1f3-eccd9d6497b0}","location":"app-system-defaults","version":"55.1","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Shield Recipe Client","description":"Client to download and run recipes for SHIELD, Heartbeat, etc.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1503583803000,"updateDate":1503583803000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\shield-recipe-client@mozilla.org.xpi","skinnable":false,"size":140305,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.3","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1511279493106	addons.xpi	DEBUG	Updating XPIState for {"id":"webcompat@mozilla.org","syncGUID":"{bde801d6-5f6b-458a-b4bf-bf5812953c0f}","location":"app-system-defaults","version":"1.1","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Web Compat","description":"Urgent post-release fixes for web compatibility.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1503583803000,"updateDate":1503583803000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\webcompat@mozilla.org.xpi","skinnable":false,"size":8992,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.3","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1511279493106	addons.xpi	DEBUG	Updating XPIState for {"id":"{972ce4c6-7e08-4474-a285-3208198ce6fd}","syncGUID":"{bd1e41ad-26de-450f-801c-3e34d25a62bb}","location":"app-global","version":"55.0.3","type":"theme","internalName":"classic/1.0","updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"optionsBrowserStyle":null,"aboutURL":null,"defaultLocale":{"name":"Default","description":"The default theme.","creator":"Mozilla","homepageURL":null,"contributors":["Mozilla Contributors"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1503583803000,"updateDate":1503583803000,"applyBackgroundUpdates":1,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi","skinnable":true,"size":7559,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.3","maxVersion":"55.0.3"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null,"icons":{},"iconURL":"chrome://browser/content/default-theme-icon.svg","icon64URL":null}
+1511279493107	DeferredSave.extensions.json	DEBUG	Save changes
+1511279493107	addons.xpi	DEBUG	Updating database with changes to installed add-ons
+1511279493107	addons.xpi-utils	DEBUG	Updating add-on states
+1511279493111	addons.xpi	DEBUG	Registering manifest for C:\Program Files\Mozilla Firefox\browser\features\aushelper@mozilla.org.xpi
+1511279493112	addons.xpi	DEBUG	Calling bootstrap method startup on aushelper@mozilla.org version 2.0
+1511279493114	addons.xpi	DEBUG	Registering manifest for C:\Program Files\Mozilla Firefox\browser\features\clicktoplay-rollout@mozilla.org.xpi
+1511279493114	addons.xpi	DEBUG	Calling bootstrap method startup on clicktoplay-rollout@mozilla.org version 1.2
+1511279493172	addons.xpi	DEBUG	Registering manifest for C:\Program Files\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1511279493173	addons.xpi	DEBUG	Calling bootstrap method startup on e10srollout@mozilla.org version 2.0
+1511279493173	addons.xpi	DEBUG	Registering manifest for C:\Program Files\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1511279493173	addons.xpi	DEBUG	Calling bootstrap method startup on firefox@getpocket.com version 1.0.5
+1511279493197	addons.xpi	DEBUG	Registering manifest for C:\Program Files\Mozilla Firefox\browser\features\followonsearch@mozilla.com.xpi
+1511279493198	addons.xpi	DEBUG	Calling bootstrap method startup on followonsearch@mozilla.com version 0.9.1
+1511279493198	addons.xpi	DEBUG	Registering manifest for C:\Program Files\Mozilla Firefox\browser\features\screenshots@mozilla.org.xpi
+1511279493199	addons.xpi	DEBUG	Calling bootstrap method startup on screenshots@mozilla.org version 10.12.0
+1511279493199	addons.xpi	DEBUG	Registering manifest for C:\Program Files\Mozilla Firefox\browser\features\shield-recipe-client@mozilla.org.xpi
+1511279493200	addons.xpi	DEBUG	Calling bootstrap method startup on shield-recipe-client@mozilla.org version 55.1
+1511279493206	addons.xpi	DEBUG	Registering manifest for C:\Program Files\Mozilla Firefox\browser\features\webcompat@mozilla.org.xpi
+1511279493207	addons.xpi	DEBUG	Calling bootstrap method startup on webcompat@mozilla.org version 1.1
+1511279493215	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+1511279493215	addons.manager	DEBUG	Provider finished startup: XPIProvider
+1511279493215	addons.manager	DEBUG	Starting provider: LightweightThemeManager
+1511279493215	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+1511279493215	addons.manager	DEBUG	Provider finished startup: LightweightThemeManager
+1511279493216	addons.manager	DEBUG	Starting provider: GMPProvider
+1511279493221	addons.manager	DEBUG	Registering shutdown blocker for GMPProvider
+1511279493221	addons.manager	DEBUG	Provider finished startup: GMPProvider
+1511279493221	addons.manager	DEBUG	Starting provider: PluginProvider
+1511279493221	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+1511279493221	addons.manager	DEBUG	Provider finished startup: PluginProvider
+1511279493222	addons.manager	DEBUG	Completed startup sequence
+1511279493293	Marionette	INFO	Enabled via --marionette
+1511279493476	addons.manager	DEBUG	Starting provider: PreviousExperimentProvider
+1511279493476	addons.manager	DEBUG	Registering shutdown blocker for PreviousExperimentProvider
+1511279493477	addons.manager	DEBUG	Provider finished startup: PreviousExperimentProvider
+1511279493478	DeferredSave.extensions.json	DEBUG	Starting write
+1511279493601	DeferredSave.extensions.json	DEBUG	Write succeeded
+1511279493601	addons.xpi-utils	DEBUG	XPI Database saved, setting schema version preference to 21
+1511279494286	addons.manager	DEBUG	Starting provider: <unnamed-provider>
+1511279494286	addons.manager	DEBUG	Registering shutdown blocker for <unnamed-provider>
+1511279494286	addons.manager	DEBUG	Provider finished startup: <unnamed-provider>
+1511279494289	addons.xpi	INFO	Mapping aushelper@mozilla.org to C:\Program Files\Mozilla Firefox\browser\features\aushelper@mozilla.org.xpi
+1511279494289	addons.xpi	INFO	Mapping clicktoplay-rollout@mozilla.org to C:\Program Files\Mozilla Firefox\browser\features\clicktoplay-rollout@mozilla.org.xpi
+1511279494289	addons.xpi	INFO	Mapping e10srollout@mozilla.org to C:\Program Files\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1511279494289	addons.xpi	INFO	Mapping firefox@getpocket.com to C:\Program Files\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1511279494290	addons.xpi	INFO	Mapping followonsearch@mozilla.com to C:\Program Files\Mozilla Firefox\browser\features\followonsearch@mozilla.com.xpi
+1511279494290	addons.xpi	INFO	Mapping screenshots@mozilla.org to C:\Program Files\Mozilla Firefox\browser\features\screenshots@mozilla.org.xpi
+1511279494290	addons.xpi	INFO	Mapping shield-recipe-client@mozilla.org to C:\Program Files\Mozilla Firefox\browser\features\shield-recipe-client@mozilla.org.xpi
+1511279494290	addons.xpi	INFO	Mapping webcompat@mozilla.org to C:\Program Files\Mozilla Firefox\browser\features\webcompat@mozilla.org.xpi
+1511279494290	addons.xpi	DEBUG	Existing add-on aushelper@mozilla.org in app-system-defaults
+1511279494291	addons.xpi	DEBUG	Existing add-on clicktoplay-rollout@mozilla.org in app-system-defaults
+1511279494291	addons.xpi	DEBUG	Existing add-on e10srollout@mozilla.org in app-system-defaults
+1511279494291	addons.xpi	DEBUG	Existing add-on firefox@getpocket.com in app-system-defaults
+1511279494292	addons.xpi	DEBUG	Existing add-on followonsearch@mozilla.com in app-system-defaults
+1511279494292	addons.xpi	DEBUG	Existing add-on screenshots@mozilla.org in app-system-defaults
+1511279494292	addons.xpi	DEBUG	Existing add-on shield-recipe-client@mozilla.org in app-system-defaults
+1511279494292	addons.xpi	DEBUG	Existing add-on webcompat@mozilla.org in app-system-defaults
+1511279494293	addons.xpi	INFO	Mapping {972ce4c6-7e08-4474-a285-3208198ce6fd} to C:\Program Files\Mozilla Firefox\browser\extensions\{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi
+1511279494293	addons.xpi	DEBUG	Existing add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} in app-global
+1511279494293	addons.xpi	DEBUG	getInstallState changed: false, state: {}
+1511279494331	addons.productaddons	INFO	sending request to: https://aus5.mozilla.org/update/3/GMP/55.0.3/20170824053622/WINNT_x86_64-msvc-x64/en-US/release/Windows_NT%206.1.1.0%20(x64)/default/default/update.xml
+1511279494425	Marionette	INFO	Listening on port 57759
+1511279494433	Marionette	INFO	Listening on port 57759
+1511279494742	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511279494769	Marionette	DEBUG	loaded listener.js
+1511279494828	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511279495190	addons.productaddons	INFO	Completed downloading document
+1511279495361	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511279495361	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511279495543	addons.productaddons	INFO	downloadXHR File download. status=200
+1511279495553	addons.productaddons	INFO	Downloaded file will be saved to C:\Users\MELNAB~1\AppData\Local\Temp\tmpaddon-310ece
+1511279495771	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/"
+Unable to read VR Path Registry from C:\Users\melnabawy\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://suggest.expedia.com/api/v4/ping?callback=jQuery182036262979377150273_1511279495839&_=1511279495846, line 1: SyntaxError: missing ; before statement
+1511279497234	addons.productaddons	INFO	downloadXHR File download. status=200
+1511279497237	addons.productaddons	INFO	Downloaded file will be saved to C:\Users\MELNAB~1\AppData\Local\Temp\tmpaddon-699d23
+JavaScript error: https://a.travel-assets.com/datacapture/2/js/dctk.js, line 22: Error: 4301 (The given (TPID, EAPID) pair (3, 0) is not valid for the Experiment 13696)
+JavaScript error: https://a.travel-assets.com/datacapture/2/js/dctk.js, line 22: Error: 4301 (The given (TPID, EAPID) pair (3, 0) is not valid for the Experiment 7203)
+1511279500005	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/"
+1511279500015	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/"
+1511279500164	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=q1jglrva2&kxt=https%3A%2F%2Fwww.expedia.co.uk&kxcl=cdn&kxp="
+1511279500261	Marionette	DEBUG	Received DOM event "pageshow" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=q1jglrva2&kxt=https%3A%2F%2Fwww.expedia.co.uk&kxcl=cdn&kxp="
+1511279500262	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://2588791.fls.doubleclick.net/activityi;src=2588791;type=emeau111;cat=emeau642;ord=1755401315489.884?"
+1511279500334	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://adservice.google.com/ddm/fls/i/src=2588791;type=emeau111;cat=emeau642;ord=1755401315489.884;_dc_1=1;~oref=https://www.expedia.co.uk/"
+1511279500499	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://adservice.google.co.uk/ddm/fls/i/src=2588791;type=emeau111;cat=emeau642;ord=1755401315489.884;_dc_1=3;~oref=https://www.expedia.co.uk/"
+1511279500501	Marionette	DEBUG	Received DOM event "pageshow" for "https://adservice.google.co.uk/ddm/fls/i/src=2588791;type=emeau111;cat=emeau642;ord=1755401315489.884;_dc_1=3;~oref=https://www.expedia.co.uk/"
+1511279500502	Marionette	DEBUG	Received DOM event "pageshow" for "https://adservice.google.com/ddm/fls/i/src=2588791;type=emeau111;cat=emeau642;ord=1755401315489.884;_dc_1=1;~oref=https://www.expedia.co.uk/"
+1511279500502	Marionette	DEBUG	Received DOM event "pageshow" for "https://2588791.fls.doubleclick.net/activityi;src=2588791;type=emeau111;cat=emeau642;ord=1755401315489.884?"
+1511279500711	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pix.impdesk.com/csync/fire/multi.html?inc=obk,exp"
+1511279501442	Marionette	DEBUG	Received DOM event "pageshow" for "https://pix.impdesk.com/csync/fire/multi.html?inc=obk,exp"
+1511279501723	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/"
+1511279502583	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511279503178	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.co.uk/"
+1511279503478	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511279504828	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.co.uk/"
+1511279504967	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.co.uk/"
+1511279504971	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/tr/"
+1511279504974	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483730"
+1511279505020	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511279505333	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.expedia.co.uk/"
+1511279505763	Marionette	DEBUG	Received DOM event "pagehide" for "https://tpc.googlesyndication.com/safeframe/1-0-14/html/container.html"
+1511279506042	Marionette	DEBUG	Received DOM event "pagehide" for "https://tpc.googlesyndication.com/safeframe/1-0-14/html/container.html"
+1511279506125	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.co.uk/"
+1511279506137	Marionette	DEBUG	Received DOM event "unload" for "https://www.expedia.co.uk/"
+1511279506281	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483718"
+1511279506282	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483697"
+1511279506282	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483699"
+1511279506282	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483701"
+1511279506283	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483703"
+1511279506284	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483737"
+1511279506284	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483744"
+1511279506284	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483727"
+1511279506284	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483705"
+1511279506285	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483735"
+1511279506285	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483740"
+1511279506285	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483723"
+1511279506285	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483693"
+1511279506285	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483722"
+1511279506285	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483739"
+1511279506286	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483741"
+1511279506286	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483720"
+1511279506286	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483708"
+1511279506286	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1511279506286	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1511279506286	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1511279506286	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1511279506286	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483716"
+1511279506287	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483733"
+1511279506287	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1511279506287	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1511279506737	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=27%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALHR%2Cto%3AHAM%2Cdeparture%3A27%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511279508599	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483749"
+1511279508599	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483750"
+1511279508599	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483751"
+1511279509400	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=27%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALHR%2Cto%3AHAM%2Cdeparture%3A27%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511279509418	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483758"
+1511279509419	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483760"
+1511279509419	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483762"
+1511279509447	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=27%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALHR%2Cto%3AHAM%2Cdeparture%3A27%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511279509454	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483752"
+1511279509491	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483754"
+1511279509846	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=27%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALHR%2Cto%3AHAM%2Cdeparture%3A27%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511279509910	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=27%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALHR%2Cto%3AHAM%2Cdeparture%3A27%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511279509928	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=27%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALHR%2Cto%3AHAM%2Cdeparture%3A27%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511279509935	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=27%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALHR%2Cto%3AHAM%2Cdeparture%3A27%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511279510015	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=27%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALHR%2Cto%3AHAM%2Cdeparture%3A27%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511279510029	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=27%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALHR%2Cto%3AHAM%2Cdeparture%3A27%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511279510039	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=27%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALHR%2Cto%3AHAM%2Cdeparture%3A27%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511279510041	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=27%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALHR%2Cto%3AHAM%2Cdeparture%3A27%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511279510042	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=27%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALHR%2Cto%3AHAM%2Cdeparture%3A27%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511279510124	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com/afs/ads/i/iframe.html#slave-2-2"
+1511279510125	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com/afs/ads/i/iframe.html#slave-2-2"
+1511279510126	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com/afs/ads/i/iframe.html#slave-1-2"
+1511279510127	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com/afs/ads/i/iframe.html#slave-1-2"
+1511279510128	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://2588791.fls.doubleclick.net/activityi;src=2588791;type=emeau111;cat=emeau344;qty=1;cost=;u=b6e84424-6ad5-4d1f-955f-f90a59b059bc;u1=AIR;u2=HAM;u3=LHR;u4=20171127%20%7C%2020171127;u7=1%7C0;u11=ECONOMY_COACH_CLASS;u14=146.87;u16=GBP;u20=OW;ord=3725553461735.348?"
+1511279510129	Marionette	DEBUG	Received DOM event "pageshow" for "https://2588791.fls.doubleclick.net/activityi;src=2588791;type=emeau111;cat=emeau344;qty=1;cost=;u=b6e84424-6ad5-4d1f-955f-f90a59b059bc;u1=AIR;u2=HAM;u3=LHR;u4=20171127%20%7C%2020171127;u7=1%7C0;u11=ECONOMY_COACH_CLASS;u14=146.87;u16=GBP;u20=OW;ord=3725553461735.348?"
+1511279510278	addons.xpi	DEBUG	Calling bootstrap method shutdown on webcompat@mozilla.org version 1.1
+1511279510279	addons.xpi	DEBUG	Calling bootstrap method shutdown on shield-recipe-client@mozilla.org version 55.1
+1511279510282	addons.xpi	DEBUG	Calling bootstrap method shutdown on screenshots@mozilla.org version 10.12.0
+1511279510283	addons.xpi	DEBUG	Calling bootstrap method shutdown on followonsearch@mozilla.com version 0.9.1
+1511279510284	addons.xpi	DEBUG	Calling bootstrap method shutdown on firefox@getpocket.com version 1.0.5
+1511279510285	addons.xpi	DEBUG	Calling bootstrap method shutdown on e10srollout@mozilla.org version 2.0
+1511279510285	addons.xpi	DEBUG	Calling bootstrap method shutdown on clicktoplay-rollout@mozilla.org version 1.2
+1511279510286	addons.xpi	DEBUG	Calling bootstrap method shutdown on aushelper@mozilla.org version 2.0
+Unable to read VR Path Registry from C:\Users\melnabawy\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 14996] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
