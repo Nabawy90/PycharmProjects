@@ -7,4 +7,5 @@ jobs:
      steps:
        - checkout
        - run: cd ExpediaPriceLocator
+       - run: ls
        - run: python PriceSearch_Test.py
