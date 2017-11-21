@@ -7,12 +7,11 @@ jobs:
      steps:
        - checkout
        - run:
-          name: get latest FF versoion
+          name: Install correct version of FF
           command: |
-            sudo pip install mozdownload mozinstall
-            sudo mozdownload --version latest --destination firefox.tar.bz2
-            sudo mozinstall firefox.tar.bz2
-            firefox -v
+            sudo apt-get purge firefox firefox-globalmenu firefox-gnome-support
+            wget https://sourceforge.net/projects/ubuntuzilla/files/mozilla/apt/pool/main/f/firefox-mozilla-build/firefox-mozilla-build_55.0.3-0ubuntu1_amd64.deb /download
+            sudo dpkg -i firefox-mozilla-build_55.0.3-0ubuntu1_amd64.deb
        - run:
           name: Install GeckoDriver for Firefox
           command: sudo bash geckodriver-install.sh
