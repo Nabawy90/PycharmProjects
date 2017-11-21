@@ -12,7 +12,7 @@ def get_lowest_prices_test():
     expediaTest = ExpediaSearch.Expedia()
 
 
-    csv_file = os.path.dirname(os.path.realpath(__file__))+'flights_input.csv'
+    csv_file = os.path.dirname(os.path.realpath(__file__))+'/flights_input.csv'
     if Validator.validate_flights_data_test(csv_file):
         flightsDataFrame = pd.read_csv(csv_file)
 
