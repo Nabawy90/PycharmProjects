@@ -8,7 +8,7 @@ jobs:
        - checkout
        - run:
           name: ChangeDirectory
-          command: cd ExpediaPriceLocator\\PriceSearch
+          command: cd ExpediaPriceLocator/PriceSearch
 
        - run:
           name: RunPriceSearchTest
