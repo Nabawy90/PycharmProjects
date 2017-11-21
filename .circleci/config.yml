@@ -7,10 +7,5 @@ jobs:
      steps:
        - checkout
        - run:
-          name: ChangeDirectory
-          command: cd ExpediaPriceLocator/PriceSearch
-
-       - run:
-          name: list files
-          command: ls
-
+          name: Run Price Search Test
+          command: python ExpediaPriceLocator/PriceSearch/PriceSearch_Test.py
