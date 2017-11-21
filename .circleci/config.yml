@@ -7,6 +7,11 @@ jobs:
      steps:
        - checkout
        - run:
+          name: list directory
+          command: |
+            cd ExpediaPriceLocator/PriceSearch/
+            ls
+       - run:
           name: Install correct version of FF
           command: |
             sudo apt-get purge firefox
