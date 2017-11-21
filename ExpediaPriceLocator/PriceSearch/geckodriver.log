@@ -14406,3 +14406,1069 @@ JavaScript error: https://suggest.expedia.com/api/v4/ping?callback=jQuery1820591
 JavaScript error: https://a.travel-assets.com/datacapture/2/js/dctk.js, line 22: Error: 4301 (The given (TPID, EAPID) pair (3, 0) is not valid for the Experiment 13696)
 JavaScript error: https://a.travel-assets.com/datacapture/2/js/dctk.js, line 22: Error: 4301 (The given (TPID, EAPID) pair (3, 0) is not valid for the Experiment 7203)
 1511300367003	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967297"
+1511302658500	geckodriver	INFO	geckodriver 0.19.1
+1511302658750	geckodriver	INFO	Listening on 127.0.0.1:55790
+1511302661447	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MELNAB~1\\AppData\\Local\\Temp\\rust_mozprofile.yuuAZoY2vHAd"
+1511302672638	Marionette	INFO	Enabled via --marionette
+[GFX1-]: Could not get a DXGI adapter
+[GFX1-]: Could not get a DXGI adapter
+1511302692966	Marionette	INFO	Listening on port 55796
+1511302694116	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511302694332	Marionette	DEBUG	Register listener.js for window 4294967297
+[GFX1-]: Could not get a DXGI adapter
+1511302717415	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511302720187	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511302720187	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511302720495	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/"
+Unable to read VR Path Registry from C:\Users\melnabawy\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://suggest.expedia.com/api/v4/ping?callback=jQuery1820002474942534290925_1511302721315&_=1511302721534, line 1: SyntaxError: missing ; before statement
+JavaScript error: https://a.travel-assets.com/datacapture/2/js/dctk.js, line 22: Error: 4301 (The given (TPID, EAPID) pair (3, 0) is not valid for the Experiment 13696)
+JavaScript error: https://a.travel-assets.com/datacapture/2/js/dctk.js, line 22: Error: 4301 (The given (TPID, EAPID) pair (3, 0) is not valid for the Experiment 7203)
+1511302734843	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/"
+1511302735731	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967328"
+1511302735748	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967330"
+1511302735749	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967332"
+1511302735750	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
+1511302735750	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967336"
+1511302735751	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967340"
+1511302735752	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511302736237	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511302738189	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511302739426	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.expedia.co.uk/"
+1511302740210	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.co.uk/"
+1511302740226	Marionette	DEBUG	Received DOM event "unload" for "https://www.expedia.co.uk/"
+1511302740404	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967342"
+1511302740404	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967344"
+1511302740405	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967346"
+1511302740405	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967348"
+1511302740406	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967376"
+1511302740406	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967387"
+1511302740406	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967368"
+1511302740407	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967350"
+1511302740407	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967363"
+1511302740407	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967372"
+1511302740408	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967380"
+1511302740408	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967361"
+1511302740408	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967338"
+1511302740408	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967374"
+1511302740409	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967386"
+1511302740409	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967364"
+1511302740409	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967353"
+1511302740409	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1511302740409	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967308"
+1511302740409	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967306"
+1511302740410	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1511302740410	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967370"
+1511302740410	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967390"
+1511302740410	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1511302740410	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967311"
+1511302741103	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=27%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALHR%2Cto%3AHAM%2Cdeparture%3A27%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511302760382	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967417"
+1511302760382	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967419"
+1511302761245	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967421"
+1511302761245	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967422"
+1511302761245	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967423"
+1511302761757	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967424"
+1511302761758	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967425"
+1511302761761	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967426"
+1511302762071	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967447"
+1511302764696	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=27%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALHR%2Cto%3AHAM%2Cdeparture%3A27%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511302765145	Marionette	DEBUG	Register listener.js for window 4294967466
+1511302765314	Marionette	DEBUG	Register listener.js for window 4294967469
+1511302765388	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967466"
+1511302765534	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511302769172	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=27%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALHR%2Cto%3AHAM%2Cdeparture%3A27%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511302769473	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=27%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALHR%2Cto%3AHAM%2Cdeparture%3A27%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511302769486	Marionette	DEBUG	Received DOM event "unload" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=27%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALHR%2Cto%3AHAM%2Cdeparture%3A27%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+Unable to read VR Path Registry from C:\Users\melnabawy\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9828, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511302769686	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967453"
+1511302769686	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967455"
+1511302769687	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967457"
+1511302769687	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967451"
+1511302769687	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967433"
+1511302769687	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967411"
+1511302769688	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967398"
+1511302769688	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967414"
+1511302769689	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967396"
+1511302769689	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967446"
+1511302769689	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967437"
+1511302769690	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967443"
+1511302769690	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967400"
+1511302769690	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967435"
+1511302769690	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967404"
+1511302769690	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967393"
+1511302769690	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967406"
+1511302769691	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967442"
+1511302769691	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967459"
+1511302769691	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967409"
+1511302769691	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967430"
+1511302769706	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/"
+JavaScript error: https://suggest.expedia.com/api/v4/ping?callback=jQuery18208108125395803624_1511302769825&_=1511302769848, line 1: SyntaxError: missing ; before statement
+JavaScript error: https://a.travel-assets.com/datacapture/2/js/dctk.js, line 22: Error: 4301 (The given (TPID, EAPID) pair (3, 0) is not valid for the Experiment 13696)
+JavaScript error: https://a.travel-assets.com/datacapture/2/js/dctk.js, line 22: Error: 4301 (The given (TPID, EAPID) pair (3, 0) is not valid for the Experiment 7203)
+1511302775616	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/"
+1511302776230	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967498"
+1511302776239	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967500"
+1511302776244	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967502"
+1511302776251	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967504"
+1511302776256	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967508"
+1511302776257	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967510"
+1511302776314	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511302776851	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511302779684	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967562"
+1511302779799	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511302780121	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511302780342	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.expedia.co.uk/"
+1511302781108	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.co.uk/"
+1511302781119	Marionette	DEBUG	Received DOM event "unload" for "https://www.expedia.co.uk/"
+1511302781263	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967512"
+1511302781264	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967514"
+1511302781264	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967516"
+1511302781265	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967518"
+1511302781266	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967537"
+1511302781267	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967539"
+1511302781268	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967548"
+1511302781269	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967535"
+1511302781269	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967506"
+1511302781270	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967552"
+1511302781270	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967555"
+1511302781270	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967546"
+1511302781272	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967521"
+1511302781273	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967550"
+1511302781274	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967554"
+1511302781274	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967544"
+1511302781275	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967523"
+1511302781275	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967475"
+1511302781275	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967477"
+1511302781276	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967541"
+1511302781276	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967565"
+1511302781280	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967478"
+1511302781281	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967482"
+1511302781564	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=29%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3AHAM%2Cto%3ALHR%2Cdeparture%3A29%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A2%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511302783971	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967574"
+1511302783971	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967575"
+1511302783971	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967576"
+1511302786794	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967577"
+1511302786796	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967578"
+1511302786797	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967579"
+1511302791607	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967627"
+1511302791633	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967629"
+1511302791637	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967631"
+1511302791641	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967633"
+1511302791997	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=29%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3AHAM%2Cto%3ALHR%2Cdeparture%3A29%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A2%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511302793621	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511302797216	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=29%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3AHAM%2Cto%3ALHR%2Cdeparture%3A29%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A2%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511302797740	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=29%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3AHAM%2Cto%3ALHR%2Cdeparture%3A29%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A2%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511302797747	Marionette	DEBUG	Received DOM event "unload" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=29%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3AHAM%2Cto%3ALHR%2Cdeparture%3A29%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A2%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511302798322	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967617"
+1511302798324	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967623"
+1511302798324	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967636"
+1511302798325	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967615"
+1511302798326	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967585"
+1511302798327	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967611"
+1511302798328	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967602"
+1511302798329	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967613"
+1511302798330	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967600"
+1511302798330	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967589"
+1511302798331	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967621"
+1511302798331	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967604"
+1511302798331	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967587"
+1511302798331	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967641"
+1511302798332	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967595"
+1511302798332	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967638"
+1511302798332	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967643"
+1511302798332	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967646"
+1511302798333	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967648"
+1511302798505	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/"
+JavaScript error: https://suggest.expedia.com/api/v4/ping?callback=jQuery18205366728820828539_1511302798532&_=1511302798722, line 1: SyntaxError: missing ; before statement
+1511302801415	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967674"
+JavaScript error: https://a.travel-assets.com/datacapture/2/js/dctk.js, line 22: Error: 4301 (The given (TPID, EAPID) pair (3, 0) is not valid for the Experiment 13696)
+JavaScript error: https://a.travel-assets.com/datacapture/2/js/dctk.js, line 22: Error: 4301 (The given (TPID, EAPID) pair (3, 0) is not valid for the Experiment 7203)
+1511302804099	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967687"
+1511302804111	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967689"
+1511302804113	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967691"
+1511302804115	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967693"
+1511302804204	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967684"
+1511302805659	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967695"
+1511302805682	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967736"
+1511302805853	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967727"
+1511302806487	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/"
+1511302807163	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967756"
+1511302807164	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967758"
+1511302807167	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967760"
+1511302807171	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967762"
+1511302807177	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967766"
+1511302807178	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967768"
+1511302807183	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511302807847	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511302809536	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967826"
+1511302809640	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511302809984	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511302810199	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.expedia.co.uk/"
+1511302811007	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.co.uk/"
+1511302811017	Marionette	DEBUG	Received DOM event "unload" for "https://www.expedia.co.uk/"
+1511302811183	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967777"
+1511302811184	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967779"
+1511302811184	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967781"
+1511302811185	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967783"
+1511302811185	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967804"
+1511302811186	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967806"
+1511302811186	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967818"
+1511302811186	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967802"
+1511302811187	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967764"
+1511302811187	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967815"
+1511302811188	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967830"
+1511302811188	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967811"
+1511302811189	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967786"
+1511302811189	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967821"
+1511302811189	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967831"
+1511302811189	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967813"
+1511302811190	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967788"
+1511302811190	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967711"
+1511302811190	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967713"
+1511302811191	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967770"
+1511302811191	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967798"
+1511302811191	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967834"
+1511302811191	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967718"
+1511302811191	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967732"
+1511302811502	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=04%2F12%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALIS%2Cto%3AOPO%2Cdeparture%3A04%2F12%2F2017TANYT&passengers=children%3A0%2Cadults%3A6%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511302813344	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967837"
+1511302813344	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967838"
+1511302813344	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967839"
+1511302814056	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967840"
+1511302814059	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967841"
+1511302814061	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967842"
+1511302815062	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=04%2F12%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALIS%2Cto%3AOPO%2Cdeparture%3A04%2F12%2F2017TANYT&passengers=children%3A0%2Cadults%3A6%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511302815458	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511302819587	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=04%2F12%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALIS%2Cto%3AOPO%2Cdeparture%3A04%2F12%2F2017TANYT&passengers=children%3A0%2Cadults%3A6%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511302819894	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=04%2F12%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALIS%2Cto%3AOPO%2Cdeparture%3A04%2F12%2F2017TANYT&passengers=children%3A0%2Cadults%3A6%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511302819903	Marionette	DEBUG	Received DOM event "unload" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=04%2F12%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALIS%2Cto%3AOPO%2Cdeparture%3A04%2F12%2F2017TANYT&passengers=children%3A0%2Cadults%3A6%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511302820115	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967860"
+1511302820115	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967864"
+1511302820116	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967866"
+1511302820116	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967858"
+1511302820116	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967846"
+1511302820117	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967850"
+1511302820118	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967848"
+1511302820119	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967869"
+1511302820120	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967855"
+1511302820120	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967861"
+1511302820121	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967871"
+1511302820121	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967873"
+1511302820126	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/"
+JavaScript error: https://suggest.expedia.com/api/v4/ping?callback=jQuery182001596510003852114_1511302822130&_=1511302822297, line 1: SyntaxError: missing ; before statement
+1511302822774	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/"
+1511302823415	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967875"
+1511302823416	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967877"
+1511302823417	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967879"
+1511302823417	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967881"
+1511302823418	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967883"
+1511302823419	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967885"
+1511302823419	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967887"
+1511302823419	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511302823829	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: https://a.travel-assets.com/datacapture/2/js/dctk.js, line 22: Error: 4301 (The given (TPID, EAPID) pair (3, 0) is not valid for the Experiment 13696)
+JavaScript error: https://a.travel-assets.com/datacapture/2/js/dctk.js, line 22: Error: 4301 (The given (TPID, EAPID) pair (3, 0) is not valid for the Experiment 7203)
+1511302825351	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511302825641	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511302825870	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.expedia.co.uk/"
+JavaScript error: https://a.travel-assets.com/datacapture/2/js/dctk.js, line 16: Error: Could not connect to /api/datacapture/track
+JavaScript error: https://a.travel-assets.com/datacapture/2/js/dctk.js, line 16: Error: Could not connect to /api/datacapture/track
+1511302826847	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.co.uk/"
+1511302826850	Marionette	DEBUG	Received DOM event "unload" for "https://www.expedia.co.uk/"
+1511302826965	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967908"
+1511302827007	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967889"
+1511302827008	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967891"
+1511302827009	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967893"
+1511302827010	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967895"
+1511302827010	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967897"
+1511302827011	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967899"
+1511302827011	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967901"
+1511302827011	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967903"
+1511302827012	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967905"
+1511302827321	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=31%2F12%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3AAMS%2Cto%3ALIS%2Cdeparture%3A31%2F12%2F2017TANYT&passengers=children%3A0%2Cadults%3A4%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511302829855	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967911"
+1511302829855	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967912"
+1511302829855	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967913"
+1511302830798	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967914"
+1511302830804	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967915"
+1511302830810	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967916"
+1511302831933	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=31%2F12%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3AAMS%2Cto%3ALIS%2Cdeparture%3A31%2F12%2F2017TANYT&passengers=children%3A0%2Cadults%3A4%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511302832311	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511302835983	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=31%2F12%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3AAMS%2Cto%3ALIS%2Cdeparture%3A31%2F12%2F2017TANYT&passengers=children%3A0%2Cadults%3A4%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511302836332	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=31%2F12%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3AAMS%2Cto%3ALIS%2Cdeparture%3A31%2F12%2F2017TANYT&passengers=children%3A0%2Cadults%3A4%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511302836341	Marionette	DEBUG	Received DOM event "unload" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=31%2F12%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3AAMS%2Cto%3ALIS%2Cdeparture%3A31%2F12%2F2017TANYT&passengers=children%3A0%2Cadults%3A4%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511302836534	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967936"
+1511302836535	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967938"
+1511302836535	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967939"
+1511302836536	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967934"
+1511302836536	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967923"
+1511302836536	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967959"
+1511302836537	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967945"
+1511302836538	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967961"
+1511302836540	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967943"
+1511302836540	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967927"
+1511302836541	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967964"
+1511302836541	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967947"
+1511302836542	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967925"
+1511302836542	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967951"
+1511302836542	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967920"
+1511302836542	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967932"
+1511302836543	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967953"
+1511302836543	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967957"
+1511302836543	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967972"
+1511302836545	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/"
+JavaScript error: https://suggest.expedia.com/api/v4/ping?callback=jQuery18205239470826470043_1511302836643&_=1511302836663, line 1: SyntaxError: missing ; before statement
+JavaScript error: https://a.travel-assets.com/datacapture/2/js/dctk.js, line 22: Error: 4301 (The given (TPID, EAPID) pair (3, 0) is not valid for the Experiment 13696)
+JavaScript error: https://a.travel-assets.com/datacapture/2/js/dctk.js, line 22: Error: 4301 (The given (TPID, EAPID) pair (3, 0) is not valid for the Experiment 7203)
+1511302841981	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/"
+1511302842454	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967998"
+1511302842459	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968000"
+1511302842460	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968002"
+1511302842465	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968004"
+1511302842472	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968006"
+1511302842491	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968010"
+1511302842732	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511302843367	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511302844680	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968041"
+1511302844691	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511302845075	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511302845261	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.expedia.co.uk/"
+1511302846055	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.co.uk/"
+1511302846075	Marionette	DEBUG	Received DOM event "unload" for "https://www.expedia.co.uk/"
+1511302846290	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968012"
+1511302846291	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968014"
+1511302846291	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968016"
+1511302846292	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968018"
+1511302846292	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968039"
+1511302846293	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968020"
+1511302846293	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968035"
+1511302846293	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968033"
+1511302846294	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968008"
+1511302846295	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968037"
+1511302846295	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968023"
+1511302846295	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967976"
+1511302846296	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967978"
+1511302846296	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968031"
+1511302846297	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968044"
+1511302846297	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967980"
+1511302846297	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967981"
+1511302846697	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=01%2F01%2F2018&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3AHAM%2Cto%3AAMS%2Cdeparture%3A01%2F01%2F2018TANYT&passengers=children%3A0%2Cadults%3A3%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511302848417	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=01%2F01%2F2018&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3AHAM%2Cto%3AAMS%2Cdeparture%3A01%2F01%2F2018TANYT&passengers=children%3A0%2Cadults%3A3%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511302849509	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511302853441	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=01%2F01%2F2018&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3AHAM%2Cto%3AAMS%2Cdeparture%3A01%2F01%2F2018TANYT&passengers=children%3A0%2Cadults%3A3%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511302853734	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=01%2F01%2F2018&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3AHAM%2Cto%3AAMS%2Cdeparture%3A01%2F01%2F2018TANYT&passengers=children%3A0%2Cadults%3A3%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511302853742	Marionette	DEBUG	Received DOM event "unload" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=01%2F01%2F2018&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3AHAM%2Cto%3AAMS%2Cdeparture%3A01%2F01%2F2018TANYT&passengers=children%3A0%2Cadults%3A3%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511302853966	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968075"
+1511302853966	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968077"
+1511302853967	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968078"
+1511302853967	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968073"
+1511302853967	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968062"
+1511302853968	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968084"
+1511302853969	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968082"
+1511302853969	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968066"
+1511302853970	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968086"
+1511302853970	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968064"
+1511302853971	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968059"
+1511302853971	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968071"
+1511302853971	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968091"
+1511302853971	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968093"
+1511302853972	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968095"
+1511302853973	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/"
+JavaScript error: https://suggest.expedia.com/api/v4/ping?callback=jQuery18207203719475160438_1511302856166&_=1511302856192, line 1: SyntaxError: missing ; before statement
+JavaScript error: https://a.travel-assets.com/datacapture/2/js/dctk.js, line 22: Error: 4301 (The given (TPID, EAPID) pair (3, 0) is not valid for the Experiment 13696)
+JavaScript error: https://a.travel-assets.com/datacapture/2/js/dctk.js, line 22: Error: 4301 (The given (TPID, EAPID) pair (3, 0) is not valid for the Experiment 7203)
+1511302862315	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/"
+1511302862840	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968120"
+1511302862847	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968122"
+1511302862851	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968124"
+1511302862854	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968126"
+1511302862871	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968130"
+1511302862871	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968132"
+1511302863095	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511302863696	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511302865070	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968163"
+1511302865099	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511302865464	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511302865662	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.expedia.co.uk/"
+1511302866432	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.co.uk/"
+1511302866443	Marionette	DEBUG	Received DOM event "unload" for "https://www.expedia.co.uk/"
+1511302866611	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968134"
+1511302866612	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968136"
+1511302866613	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968138"
+1511302866614	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968140"
+1511302866614	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968157"
+1511302866614	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968155"
+1511302866615	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968128"
+1511302866615	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968161"
+1511302866615	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968143"
+1511302866615	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968159"
+1511302866616	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968145"
+1511302866616	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968097"
+1511302866616	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968099"
+1511302866616	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968153"
+1511302866617	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968166"
+1511302866617	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968101"
+1511302866617	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968104"
+1511302866875	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=03%2F05%2F2018&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALHR%2Cto%3AAMS%2Cdeparture%3A03%2F05%2F2018TANYT&passengers=children%3A0%2Cadults%3A5%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511302869022	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=03%2F05%2F2018&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALHR%2Cto%3AAMS%2Cdeparture%3A03%2F05%2F2018TANYT&passengers=children%3A0%2Cadults%3A5%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511302870026	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 9828, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\melnabawy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11736, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11736, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\melnabawy\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 11972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1511303379536	geckodriver	INFO	geckodriver 0.19.1
+1511303379568	geckodriver	INFO	Listening on 127.0.0.1:58042
+1511303381635	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MELNAB~1\\AppData\\Local\\Temp\\rust_mozprofile.69EXJ2LGPZw9"
+1511303382836	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\melnabawy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511303389229	Marionette	INFO	Listening on port 58048
+1511303389554	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511303389626	Marionette	DEBUG	Register listener.js for window 4294967297
+1511303390460	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511303390925	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511303390925	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511303391108	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/"
+Unable to read VR Path Registry from C:\Users\melnabawy\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://suggest.expedia.com/api/v4/ping?callback=jQuery18206232411507967998_1511303391561&_=1511303391804, line 1: SyntaxError: missing ; before statement
+JavaScript error: https://a.travel-assets.com/datacapture/2/js/dctk.js, line 22: Error: 4301 (The given (TPID, EAPID) pair (3, 0) is not valid for the Experiment 13696)
+JavaScript error: https://a.travel-assets.com/datacapture/2/js/dctk.js, line 22: Error: 4301 (The given (TPID, EAPID) pair (3, 0) is not valid for the Experiment 7203)
+1511303456709	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/"
+1511303457772	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511303458303	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511303460149	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511303461280	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.expedia.co.uk/"
+1511303461987	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.co.uk/"
+1511303462006	Marionette	DEBUG	Received DOM event "unload" for "https://www.expedia.co.uk/"
+1511303462189	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967342"
+1511303462189	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967344"
+1511303462189	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967346"
+1511303462190	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967348"
+1511303462191	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967363"
+1511303462191	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967370"
+1511303462191	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967383"
+1511303462191	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967361"
+1511303462192	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967336"
+1511303462192	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967372"
+1511303462192	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967386"
+1511303462193	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967364"
+1511303462193	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967351"
+1511303462193	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967374"
+1511303462194	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967384"
+1511303462195	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967368"
+1511303462195	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967353"
+1511303462195	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1511303462196	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967308"
+1511303462196	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967306"
+1511303462196	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1511303462196	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967375"
+1511303462197	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967390"
+1511303462197	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1511303462197	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1511303462585	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=27%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALHR%2Cto%3AHAM%2Cdeparture%3A27%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511303464947	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967393"
+1511303464947	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967395"
+1511303464948	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967397"
+1511303465939	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967420"
+1511303465939	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967421"
+1511303465940	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967422"
+1511303466515	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967433"
+1511303466524	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967435"
+1511303466661	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967440"
+1511303466728	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967423"
+1511303466731	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967424"
+1511303466735	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967425"
+1511303468705	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=27%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALHR%2Cto%3AHAM%2Cdeparture%3A27%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511303469161	Marionette	DEBUG	Register listener.js for window 4294967472
+1511303469345	Marionette	DEBUG	Register listener.js for window 4294967475
+1511303469384	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967472"
+1511303469438	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511303472863	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=27%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALHR%2Cto%3AHAM%2Cdeparture%3A27%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511303473412	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=27%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALHR%2Cto%3AHAM%2Cdeparture%3A27%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511303473425	Marionette	DEBUG	Received DOM event "unload" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=27%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALHR%2Cto%3AHAM%2Cdeparture%3A27%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+Unable to read VR Path Registry from C:\Users\melnabawy\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11552, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511303473834	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/"
+1511303473897	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967458"
+1511303473898	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967460"
+1511303473899	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967461"
+1511303473899	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967456"
+1511303473901	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967443"
+1511303473902	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967412"
+1511303473902	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967401"
+1511303473903	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967414"
+1511303473904	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967399"
+1511303473904	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967453"
+1511303473910	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967447"
+1511303473911	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967418"
+1511303473913	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967403"
+1511303473915	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967445"
+1511303473915	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967408"
+1511303473917	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967410"
+1511303473917	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967416"
+1511303473918	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967452"
+1511303473919	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967466"
+1511303473919	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967426"
+1511303473920	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967437"
+JavaScript error: https://suggest.expedia.com/api/v4/ping?callback=jQuery18209219179206807647_1511303474133&_=1511303474241, line 1: SyntaxError: missing ; before statement
+1511303476734	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967491"
+1511303476734	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967494"
+1511303476735	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967480"
+1511303476735	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967487"
+1511303476735	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967481"
+1511303476736	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967469"
+JavaScript error: https://a.travel-assets.com/datacapture/2/js/dctk.js, line 22: Error: 4301 (The given (TPID, EAPID) pair (3, 0) is not valid for the Experiment 13696)
+JavaScript error: https://s.go-mpulse.net/boomerang/QRHAF-VKPV6-ZTS8J-965A3-72Q93, line 15: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://a.travel-assets.com/datacapture/2/js/dctk.js, line 22: Error: 4301 (The given (TPID, EAPID) pair (3, 0) is not valid for the Experiment 7203)
+1511303477925	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967297"
+[Parent 11552, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11552, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\melnabawy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11576, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11576, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x42000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x42000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1511303552965	geckodriver	INFO	geckodriver 0.19.1
+1511303552977	geckodriver	INFO	Listening on 127.0.0.1:58943
+1511303555018	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MELNAB~1\\AppData\\Local\\Temp\\rust_mozprofile.WLU5lCA9oPq7"
+1511303556025	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\melnabawy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511303562706	Marionette	INFO	Listening on port 58950
+1511303563066	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511303563122	Marionette	DEBUG	Register listener.js for window 4294967297
+1511303563783	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511303564268	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511303564268	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511303564542	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/"
+Unable to read VR Path Registry from C:\Users\melnabawy\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://suggest.expedia.com/api/v4/ping?callback=jQuery18207282266706063829_1511303565149&_=1511303565155, line 1: SyntaxError: missing ; before statement
+JavaScript error: https://a.travel-assets.com/datacapture/2/js/dctk.js, line 22: Error: 4301 (The given (TPID, EAPID) pair (3, 0) is not valid for the Experiment 13696)
+JavaScript error: https://a.travel-assets.com/datacapture/2/js/dctk.js, line 22: Error: 4301 (The given (TPID, EAPID) pair (3, 0) is not valid for the Experiment 7203)
+1511303569604	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/"
+1511303570266	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511303570640	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511303572251	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511303572699	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.expedia.co.uk/"
+1511303573582	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.co.uk/"
+1511303573592	Marionette	DEBUG	Received DOM event "unload" for "https://www.expedia.co.uk/"
+1511303573761	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967315"
+1511303573762	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967317"
+1511303573762	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967319"
+1511303573763	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967321"
+1511303573764	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967323"
+1511303573764	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967325"
+1511303573766	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967327"
+1511303573766	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967331"
+1511303573766	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967336"
+1511303573767	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
+1511303573767	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967329"
+1511303573767	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967341"
+1511303573768	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967338"
+1511303574116	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=27%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALHR%2Cto%3AHAM%2Cdeparture%3A27%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511303576388	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967344"
+1511303576389	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967346"
+1511303576389	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967348"
+1511303577259	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967367"
+1511303577259	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967368"
+1511303577259	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967369"
+1511303577445	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967381"
+1511303577450	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967383"
+1511303577661	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967390"
+1511303577735	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967370"
+1511303577735	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967371"
+1511303577741	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967372"
+1511303579411	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=27%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALHR%2Cto%3AHAM%2Cdeparture%3A27%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511303579972	Marionette	DEBUG	Register listener.js for window 4294967425
+1511303580090	Marionette	DEBUG	Register listener.js for window 4294967428
+1511303580286	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967425"
+1511303580309	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511303583817	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=27%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALHR%2Cto%3AHAM%2Cdeparture%3A27%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511303584144	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=27%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALHR%2Cto%3AHAM%2Cdeparture%3A27%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511303584156	Marionette	DEBUG	Received DOM event "unload" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=27%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALHR%2Cto%3AHAM%2Cdeparture%3A27%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511303584388	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967415"
+1511303584389	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967417"
+1511303584389	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967419"
+1511303584389	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967413"
+1511303584390	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967393"
+1511303584390	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967361"
+1511303584392	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967352"
+1511303584393	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967363"
+1511303584394	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967350"
+1511303584395	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967402"
+1511303584395	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967404"
+1511303584396	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967397"
+1511303584396	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967378"
+1511303584396	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967354"
+1511303584397	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967395"
+1511303584397	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967359"
+1511303584397	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967365"
+1511303584398	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967373"
+1511303584398	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967407"
+1511303584399	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967410"
+1511303584399	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967380"
+1511303584400	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967388"
+1511303584402	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/"
+JavaScript error: https://suggest.expedia.com/api/v4/ping?callback=jQuery18204860669356134871_1511303584502&_=1511303584525, line 1: SyntaxError: missing ; before statement
+JavaScript error: https://a.travel-assets.com/datacapture/2/js/dctk.js, line 22: Error: 4301 (The given (TPID, EAPID) pair (3, 0) is not valid for the Experiment 13696)
+JavaScript error: https://a.travel-assets.com/datacapture/2/js/dctk.js, line 22: Error: 4301 (The given (TPID, EAPID) pair (3, 0) is not valid for the Experiment 7203)
+1511303589900	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967453"
+1511303589901	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967434"
+1511303589902	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967441"
+1511303589902	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967435"
+1511303589903	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967422"
+1511303590777	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/"
+1511303591256	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967470"
+1511303591257	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967472"
+1511303591257	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967474"
+1511303591259	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967476"
+1511303591292	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967478"
+1511303591294	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967480"
+1511303591353	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511303591839	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511303593947	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511303595155	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511303595383	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.expedia.co.uk/"
+1511303596220	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.co.uk/"
+1511303596230	Marionette	DEBUG	Received DOM event "unload" for "https://www.expedia.co.uk/"
+1511303596382	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967484"
+1511303596382	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967486"
+1511303596383	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967488"
+1511303596383	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967490"
+1511303596383	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967512"
+1511303596384	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967525"
+1511303596384	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967506"
+1511303596384	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967492"
+1511303596385	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967518"
+1511303596385	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967529"
+1511303596385	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967514"
+1511303596386	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967494"
+1511303596386	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967505"
+1511303596386	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967510"
+1511303596386	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967521"
+1511303596387	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967503"
+1511303596387	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967482"
+1511303596387	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967445"
+1511303596387	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967447"
+1511303596387	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967516"
+1511303596388	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967532"
+1511303596388	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967449"
+1511303596388	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967451"
+1511303596732	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=29%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3AHAM%2Cto%3ALHR%2Cdeparture%3A29%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A2%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511303598679	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967535"
+1511303598681	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967537"
+1511303598684	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967539"
+1511303599870	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967562"
+1511303599887	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967564"
+1511303600010	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967568"
+1511303600539	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967570"
+1511303600540	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967571"
+1511303600540	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967572"
+1511303601068	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967573"
+1511303601073	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967574"
+1511303601076	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967575"
+1511303602725	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=29%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3AHAM%2Cto%3ALHR%2Cdeparture%3A29%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A2%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511303603220	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511303606652	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=29%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3AHAM%2Cto%3ALHR%2Cdeparture%3A29%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A2%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511303606957	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=29%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3AHAM%2Cto%3ALHR%2Cdeparture%3A29%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A2%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511303606974	Marionette	DEBUG	Received DOM event "unload" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=29%2F11%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3AHAM%2Cto%3ALHR%2Cdeparture%3A29%2F11%2F2017TANYT&passengers=children%3A0%2Cadults%3A2%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511303607193	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967597"
+1511303607194	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967599"
+1511303607195	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967601"
+1511303607195	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967595"
+1511303607196	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967581"
+1511303607196	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967555"
+1511303607196	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967543"
+1511303607197	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967558"
+1511303607198	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967541"
+1511303607198	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967585"
+1511303607199	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967566"
+1511303607199	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967545"
+1511303607199	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967583"
+1511303607200	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967549"
+1511303607200	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967551"
+1511303607200	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967590"
+1511303607201	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967593"
+1511303607201	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967554"
+1511303607201	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967579"
+1511303607203	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/"
+JavaScript error: https://suggest.expedia.com/api/v4/ping?callback=jQuery18207364228778306916_1511303607304&_=1511303607320, line 1: SyntaxError: missing ; before statement
+JavaScript error: https://a.travel-assets.com/datacapture/2/js/dctk.js, line 22: Error: 4301 (The given (TPID, EAPID) pair (3, 0) is not valid for the Experiment 13696)
+JavaScript error: https://a.travel-assets.com/datacapture/2/js/dctk.js, line 22: Error: 4301 (The given (TPID, EAPID) pair (3, 0) is not valid for the Experiment 7203)
+1511303612769	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/"
+1511303613253	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967628"
+1511303613254	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967630"
+1511303613268	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967632"
+1511303613280	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967634"
+1511303613287	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967638"
+1511303613288	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967640"
+1511303613388	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511303614022	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511303616086	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967686"
+1511303616126	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511303616402	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511303616626	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.expedia.co.uk/"
+1511303617429	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.co.uk/"
+1511303617449	Marionette	DEBUG	Received DOM event "unload" for "https://www.expedia.co.uk/"
+1511303617639	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967642"
+1511303617639	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967644"
+1511303617640	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967646"
+1511303617640	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967648"
+1511303617641	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967663"
+1511303617641	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967665"
+1511303617642	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967677"
+1511303617642	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967661"
+1511303617642	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967636"
+1511303617643	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967675"
+1511303617644	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967683"
+1511303617644	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967671"
+1511303617645	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967651"
+1511303617645	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967673"
+1511303617646	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967681"
+1511303617646	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967667"
+1511303617646	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967653"
+1511303617647	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967605"
+1511303617647	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967607"
+1511303617647	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967669"
+1511303617648	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967689"
+1511303617648	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967610"
+1511303617648	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967611"
+1511303618040	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=04%2F12%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALIS%2Cto%3AOPO%2Cdeparture%3A04%2F12%2F2017TANYT&passengers=children%3A0%2Cadults%3A6%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511303619682	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967692"
+1511303619685	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967694"
+1511303619688	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967696"
+1511303620223	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967716"
+1511303620230	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967718"
+1511303620325	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967724"
+1511303620559	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967726"
+1511303620559	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967727"
+1511303620559	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967728"
+1511303620974	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967729"
+1511303620976	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967730"
+1511303620978	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967731"
+1511303622993	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=04%2F12%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALIS%2Cto%3AOPO%2Cdeparture%3A04%2F12%2F2017TANYT&passengers=children%3A0%2Cadults%3A6%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511303623421	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511303626738	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=04%2F12%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALIS%2Cto%3AOPO%2Cdeparture%3A04%2F12%2F2017TANYT&passengers=children%3A0%2Cadults%3A6%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511303627077	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=04%2F12%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALIS%2Cto%3AOPO%2Cdeparture%3A04%2F12%2F2017TANYT&passengers=children%3A0%2Cadults%3A6%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511303627095	Marionette	DEBUG	Received DOM event "unload" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=04%2F12%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALIS%2Cto%3AOPO%2Cdeparture%3A04%2F12%2F2017TANYT&passengers=children%3A0%2Cadults%3A6%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511303627330	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967754"
+1511303627331	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967756"
+1511303627331	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967757"
+1511303627331	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967752"
+1511303627332	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967738"
+1511303627332	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967711"
+1511303627333	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967700"
+1511303627334	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967713"
+1511303627334	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967698"
+1511303627334	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967742"
+1511303627335	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967720"
+1511303627336	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967702"
+1511303627336	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967740"
+1511303627336	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967706"
+1511303627337	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967708"
+1511303627337	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967747"
+1511303627337	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967749"
+1511303627338	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967715"
+1511303627338	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967736"
+1511303627341	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/"
+JavaScript error: https://suggest.expedia.com/api/v4/ping?callback=jQuery182023255767553572326_1511303628048&_=1511303628074, line 1: SyntaxError: missing ; before statement
+JavaScript error: https://a.travel-assets.com/datacapture/2/js/dctk.js, line 22: Error: 4301 (The given (TPID, EAPID) pair (3, 0) is not valid for the Experiment 13696)
+JavaScript error: https://a.travel-assets.com/datacapture/2/js/dctk.js, line 22: Error: 4301 (The given (TPID, EAPID) pair (3, 0) is not valid for the Experiment 7203)
+1511303632918	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/"
+1511303633447	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967785"
+1511303633452	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967787"
+1511303633454	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967789"
+1511303633459	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967791"
+1511303633459	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967793"
+1511303633475	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967797"
+1511303633737	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511303634316	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511303635895	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967829"
+1511303635936	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511303636256	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511303636439	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.expedia.co.uk/"
+1511303637270	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.co.uk/"
+1511303637291	Marionette	DEBUG	Received DOM event "unload" for "https://www.expedia.co.uk/"
+1511303637472	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967799"
+1511303637472	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967801"
+1511303637473	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967803"
+1511303637474	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967805"
+1511303637474	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967827"
+1511303637475	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967807"
+1511303637476	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967820"
+1511303637476	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967818"
+1511303637476	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967795"
+1511303637477	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967823"
+1511303637478	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967810"
+1511303637478	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967762"
+1511303637479	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967764"
+1511303637479	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967825"
+1511303637479	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967832"
+1511303637480	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967765"
+1511303637480	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967767"
+1511303637833	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=31%2F12%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3AAMS%2Cto%3ALIS%2Cdeparture%3A31%2F12%2F2017TANYT&passengers=children%3A0%2Cadults%3A4%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511303639689	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967835"
+1511303639692	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967837"
+1511303639695	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967839"
+1511303640427	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967862"
+1511303640438	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967864"
+1511303640551	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967868"
+1511303640810	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967870"
+1511303640810	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967871"
+1511303640810	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967872"
+1511303641271	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967873"
+1511303641272	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967874"
+1511303641275	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967875"
+1511303642419	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=31%2F12%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3AAMS%2Cto%3ALIS%2Cdeparture%3A31%2F12%2F2017TANYT&passengers=children%3A0%2Cadults%3A4%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511303642874	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511303646320	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=31%2F12%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3AAMS%2Cto%3ALIS%2Cdeparture%3A31%2F12%2F2017TANYT&passengers=children%3A0%2Cadults%3A4%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511303646659	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=31%2F12%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3AAMS%2Cto%3ALIS%2Cdeparture%3A31%2F12%2F2017TANYT&passengers=children%3A0%2Cadults%3A4%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511303646669	Marionette	DEBUG	Received DOM event "unload" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=31%2F12%2F2017&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3AAMS%2Cto%3ALIS%2Cdeparture%3A31%2F12%2F2017TANYT&passengers=children%3A0%2Cadults%3A4%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511303646886	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967897"
+1511303646887	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967899"
+1511303646887	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967901"
+1511303646887	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967895"
+1511303646888	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967881"
+1511303646888	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967855"
+1511303646889	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967843"
+1511303646890	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967858"
+1511303646890	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967841"
+1511303646891	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967885"
+1511303646891	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967866"
+1511303646891	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967845"
+1511303646892	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967883"
+1511303646892	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967849"
+1511303646892	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967851"
+1511303646893	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967890"
+1511303646893	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967892"
+1511303646893	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967854"
+1511303646894	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967879"
+1511303646897	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/"
+JavaScript error: https://suggest.expedia.com/api/v4/ping?callback=jQuery182020020692109363902_1511303646989&_=1511303646997, line 1: SyntaxError: missing ; before statement
+JavaScript error: https://a.travel-assets.com/datacapture/2/js/dctk.js, line 22: Error: 4301 (The given (TPID, EAPID) pair (3, 0) is not valid for the Experiment 13696)
+JavaScript error: https://a.travel-assets.com/datacapture/2/js/dctk.js, line 22: Error: 4301 (The given (TPID, EAPID) pair (3, 0) is not valid for the Experiment 7203)
+1511303652076	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/"
+1511303652625	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967928"
+1511303652640	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967930"
+1511303652641	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967932"
+1511303652646	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967934"
+1511303652664	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967938"
+1511303652665	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967940"
+1511303652728	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511303653331	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511303655213	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967984"
+1511303655292	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511303655615	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511303655802	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.expedia.co.uk/"
+1511303656861	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.co.uk/"
+1511303656885	Marionette	DEBUG	Received DOM event "unload" for "https://www.expedia.co.uk/"
+1511303657050	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967942"
+1511303657051	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967944"
+1511303657051	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967946"
+1511303657052	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967948"
+1511303657052	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967963"
+1511303657053	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967965"
+1511303657053	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967974"
+1511303657054	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967961"
+1511303657054	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967936"
+1511303657055	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967978"
+1511303657055	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967986"
+1511303657055	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967972"
+1511303657055	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967951"
+1511303657055	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967976"
+1511303657056	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967982"
+1511303657056	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967969"
+1511303657056	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967953"
+1511303657056	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967905"
+1511303657056	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967907"
+1511303657056	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967967"
+1511303657057	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967989"
+1511303657057	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967909"
+1511303657057	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967912"
+1511303657413	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=01%2F01%2F2018&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3AHAM%2Cto%3AAMS%2Cdeparture%3A01%2F01%2F2018TANYT&passengers=children%3A0%2Cadults%3A3%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511303659215	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967992"
+1511303659216	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967993"
+1511303659216	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967994"
+1511303659835	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967995"
+1511303659838	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967996"
+1511303659839	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967997"
+1511303661418	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=01%2F01%2F2018&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3AHAM%2Cto%3AAMS%2Cdeparture%3A01%2F01%2F2018TANYT&passengers=children%3A0%2Cadults%3A3%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511303661802	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511303665753	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=01%2F01%2F2018&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3AHAM%2Cto%3AAMS%2Cdeparture%3A01%2F01%2F2018TANYT&passengers=children%3A0%2Cadults%3A3%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511303665935	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968057"
+1511303665936	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968059"
+1511303666028	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968061"
+1511303666065	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=01%2F01%2F2018&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3AHAM%2Cto%3AAMS%2Cdeparture%3A01%2F01%2F2018TANYT&passengers=children%3A0%2Cadults%3A3%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511303666075	Marionette	DEBUG	Received DOM event "unload" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=01%2F01%2F2018&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3AHAM%2Cto%3AAMS%2Cdeparture%3A01%2F01%2F2018TANYT&passengers=children%3A0%2Cadults%3A3%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511303666271	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968017"
+1511303666272	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968019"
+1511303666273	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968024"
+1511303666273	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968015"
+1511303666273	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968001"
+1511303666274	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968050"
+1511303666275	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968041"
+1511303666275	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968052"
+1511303666276	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968039"
+1511303666276	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968023"
+1511303666276	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968025"
+1511303666277	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968020"
+1511303666277	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968005"
+1511303666277	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968055"
+1511303666278	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968043"
+1511303666278	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968003"
+1511303666278	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968031"
+1511303666279	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968010"
+1511303666279	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968013"
+1511303666279	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968033"
+1511303666279	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968035"
+1511303666280	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968048"
+1511303666281	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/"
+JavaScript error: https://suggest.expedia.com/api/v4/ping?callback=jQuery18209868916316412902_1511303666378&_=1511303666394, line 1: SyntaxError: missing ; before statement
+JavaScript error: https://a.travel-assets.com/datacapture/2/js/dctk.js, line 22: Error: 4301 (The given (TPID, EAPID) pair (3, 0) is not valid for the Experiment 13696)
+JavaScript error: https://a.travel-assets.com/datacapture/2/js/dctk.js, line 22: Error: 4301 (The given (TPID, EAPID) pair (3, 0) is not valid for the Experiment 7203)
+1511303671704	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/"
+1511303672261	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968086"
+1511303672274	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968088"
+1511303672274	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968090"
+1511303672293	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968092"
+1511303672306	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968094"
+1511303672310	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968096"
+1511303672421	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511303673049	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511303674535	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968130"
+1511303674616	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511303674910	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511303675091	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.expedia.co.uk/"
+1511303675979	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.co.uk/"
+1511303675991	Marionette	DEBUG	Received DOM event "unload" for "https://www.expedia.co.uk/"
+1511303676145	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968100"
+1511303676145	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968102"
+1511303676146	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968104"
+1511303676146	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968106"
+1511303676147	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968126"
+1511303676147	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968108"
+1511303676147	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968124"
+1511303676147	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968110"
+1511303676148	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968121"
+1511303676148	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968119"
+1511303676149	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968098"
+1511303676149	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968064"
+1511303676149	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968066"
+1511303676150	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968128"
+1511303676150	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968133"
+1511303676151	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968067"
+1511303676151	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968070"
+1511303676467	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=03%2F05%2F2018&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALHR%2Cto%3AAMS%2Cdeparture%3A03%2F05%2F2018TANYT&passengers=children%3A0%2Cadults%3A5%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511303678588	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968136"
+1511303678589	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968137"
+1511303678589	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968138"
+1511303680073	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968139"
+1511303680076	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968140"
+1511303680077	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294968141"
+1511303681384	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.co.uk/Flights-Search?flight-type=on&starDate=03%2F05%2F2018&_xpid=11905%7C1&mode=search&trip=oneway&leg1=from%3ALHR%2Cto%3AAMS%2Cdeparture%3A03%2F05%2F2018TANYT&passengers=children%3A0%2Cadults%3A5%2Cseniors%3A0%2Cinfantinlap%3AY"
+1511303681923	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511303931562	geckodriver	INFO	geckodriver 0.19.1
+1511303931595	geckodriver	INFO	Listening on 127.0.0.1:60586
+1511303933651	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MELNAB~1\\AppData\\Local\\Temp\\rust_mozprofile.sZBFJzizq1M2"
+1511303935596	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\melnabawy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511303940423	Marionette	INFO	Listening on port 60593
+1511303940997	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511303941054	Marionette	DEBUG	Register listener.js for window 4294967297
+1511303941676	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511303942235	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511303942236	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511303942429	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/"
+Unable to read VR Path Registry from C:\Users\melnabawy\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://a.travel-assets.com/bundles/storefront-web/homepage-bundle/homepage-mercury-script-3-en_GB-c4eeb76f243ae1198a56092bbd4ac7c7-min.js, line 7: ReferenceError: error is not defined
+1511303943306	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967297"
+JavaScript error: resource:///modules/ContentMetaHandler.jsm, line 123: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIMessageSender.sendAsyncMessage]
+1511303955341	geckodriver	INFO	geckodriver 0.19.1
+1511303955354	geckodriver	INFO	Listening on 127.0.0.1:60777
+1511303957233	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MELNAB~1\\AppData\\Local\\Temp\\rust_mozprofile.BIATSB8g49tC"
+1511303958415	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\melnabawy\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11312, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\melnabawy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511303963591	Marionette	INFO	Listening on port 60783
+1511303964610	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511303964673	Marionette	DEBUG	Register listener.js for window 4294967297
+1511303965201	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511303965664	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511303965664	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511303965860	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.co.uk/"
+Unable to read VR Path Registry from C:\Users\melnabawy\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://suggest.expedia.com/api/v4/ping?callback=jQuery18206310322929754254_1511303966256&_=1511303966279, line 1: SyntaxError: missing ; before statement
+JavaScript error: https://a.travel-assets.com/datacapture/2/js/dctk.js, line 22: Error: 4301 (The given (TPID, EAPID) pair (3, 0) is not valid for the Experiment 13696)
+JavaScript error: https://a.travel-assets.com/datacapture/2/js/dctk.js, line 22: Error: 4301 (The given (TPID, EAPID) pair (3, 0) is not valid for the Experiment 7203)
+1511303968722	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967297"
+[Parent 11312, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\melnabawy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x440006,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+
