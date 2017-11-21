@@ -11,9 +11,8 @@ jobs:
           command: |
             sudo apt-get purge firefox
             wget https://sourceforge.net/projects/ubuntuzilla/files/mozilla/apt/pool/main/f/firefox-mozilla-build/firefox-mozilla-build_55.0.3-0ubuntu1_amd64.deb
-            ls
-            echo 'Found'
             sudo dpkg -i firefox-mozilla-build_55.0.3-0ubuntu1_amd64.deb
+            firefox -v
        - run:
           name: Install GeckoDriver for Firefox
           command: sudo bash geckodriver-install.sh

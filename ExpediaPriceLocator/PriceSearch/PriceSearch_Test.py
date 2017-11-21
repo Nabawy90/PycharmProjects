@@ -1,9 +1,9 @@
 import sys
 import os
 sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
-from GUIAutomation import ExpediaSearch
-from GUIAutomation import XPATH_STD
-from Validation import Validator
+from ExpediaPriceLocator.GUIAutomation import ExpediaSearch
+from ExpediaPriceLocator.GUIAutomation import XPATH_STD
+from ExpediaPriceLocator.Validation import Validator
 from selenium.webdriver.support.select import Select
 import pandas as pd
 
@@ -11,7 +11,7 @@ import time
 
 def get_lowest_prices_test():
     expediaTest = ExpediaSearch.Expedia()
-    csv_file = 'flights_input.csv'
+    csv_file = r'../PriceSearch/flights_input.csv'
     if Validator.validate_flights_data_test(csv_file):
         flightsDataFrame = pd.read_csv('flights_input.csv')
 
