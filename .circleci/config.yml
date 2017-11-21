@@ -7,6 +7,9 @@ jobs:
      steps:
        - checkout
        - run:
+          name: Install GeckoDriver for Firefox
+          command: sudo bash geckodriver-install.sh
+       - run:
           name: Install Selenium
           command: sudo pip install selenium
        - run:
