@@ -6,10 +6,9 @@ jobs:
        - image: circleci/python:3.6-browsers
      steps:
        - checkout
-       - dependencies:
+       - run:
           name: get latest FF versoion
-          override:
-            sudo apt-get update && sudo apt-get install libpango1.0-0 && sudo apt-get install firefox
+          command: sudo apt-get update && sudo apt-get install libpango1.0-0 && sudo apt-get install firefox
        - run:
           name: Install GeckoDriver for Firefox
           command: sudo bash geckodriver-install.sh
