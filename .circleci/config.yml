@@ -6,12 +6,10 @@ jobs:
        - image: circleci/python:3.6-browsers
      steps:
        - checkout
-       - run:
-          name: Install correct version of FF
-          command: |
-            sudo apt-get purge firefox
-            wget https://sourceforge.net/projects/ubuntuzilla/files/mozilla/apt/pool/main/f/firefox-mozilla-build/firefox-mozilla-build_55.0.3-0ubuntu1_amd64.deb/download
-            sudo dpkg -i firefox-mozilla-build_55.0.3-0ubuntu1_amd64.deb
+       - dependencies:
+          name: get latest FF versoion
+          override:
+            sudo apt-get update && sudo apt-get install libpango1.0-0 && sudo apt-get install firefox
        - run:
           name: Install GeckoDriver for Firefox
           command: sudo bash geckodriver-install.sh
